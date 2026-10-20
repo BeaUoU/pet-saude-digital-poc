@@ -23,7 +23,6 @@ def carregar_dados():
     if not os.path.exists(path):
         return pd.DataFrame()
     df = pd.read_csv(path)
-    # Chama o nosso motor matemático!
     df_ranqueado = calcular_credibilidade(df)
     return df_ranqueado
 
