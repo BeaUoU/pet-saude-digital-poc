@@ -37,10 +37,8 @@ df_fake['Credibilidade_Base'] = 0.5
 df_real['Categoria'] = 'Oficial/Fato'
 df_real['Credibilidade_Base'] = 2.5 
 
-# 4. Juntar num Feed único
 df_final = pd.concat([df_fake, df_real], ignore_index=True)
 
-# 5. Tradução Automática (Inglês -> Português)
 print(f"A traduzir {len(df_final)} manchetes para Português. Isto demorará cerca de 1 minuto devido à pausa anti-bloqueio...")
 tradutor = MyMemoryTranslator(source='english', target='portuguese brazil')
 textos_traduzidos = []
@@ -49,7 +47,6 @@ for i, texto_ingles in enumerate(df_final['Texto_Publicacao']):
     try:
         texto_pt = tradutor.translate(texto_ingles)
         textos_traduzidos.append(texto_pt)
-        # A pausa de 1 segundo para não ultrapassar o limite da Google!
         time.sleep(1)
     except Exception as e:
         print(f"Erro ao traduzir a linha {i}: {e}")
@@ -58,12 +55,10 @@ for i, texto_ingles in enumerate(df_final['Texto_Publicacao']):
 df_final['Texto_Publicacao'] = textos_traduzidos
 print("Tradução concluída com sucesso!")
 
-# 6. Gerar Mock Data (Likes e Partilhas)
 np.random.seed(42) 
 df_final['Likes'] = np.random.randint(50, 5000, size=len(df_final))
 df_final['Compartilhamentos'] = np.random.randint(10, 1000, size=len(df_final))
 
-# 7. Análise de Sentimento (PLN) em Português
 print("A carregar o modelo de IA (PySentimiento)...")
 analyzer = create_analyzer(task="sentiment", lang="pt")
 
@@ -81,7 +76,7 @@ df_final['Sentimento_Score'] = scores
 
 df_final = df_final[['Texto_Publicacao', 'Fonte', 'Categoria', 'Credibilidade_Base', 'Likes', 'Compartilhamentos', 'Sentimento_Rotulo', 'Sentimento_Score']]
 
-# 8. Guardar o ficheiro final
+
 output_path = os.path.join(PROCESSED_DIR, "dataset_poc_limpo.csv")
 df_final.to_csv(output_path, index=False)
 print(f"🎉 SUCESSO! Ficheiro limpo guardado em: {output_path}")
