@@ -3,11 +3,10 @@ import numpy as np
 from pysentimiento import create_analyzer
 from deep_translator import MyMemoryTranslator
 import os
-import time  # <-- Nova biblioteca adicionada para controlar o tempo
+import time  
 
 print("A iniciar a pipeline de dados (ETL + Tradução Automática + PLN)...")
 
-# 1. Mapeamento das pastas
 RAW_DIR = "data/raw"
 PROCESSED_DIR = "data/processed"
 
@@ -18,16 +17,13 @@ if not os.path.exists(fake_path) or not os.path.exists(real_path):
     print(f"ERRO: Ficheiros não encontrados na pasta {RAW_DIR}.")
     exit()
 
-# 2. Carregar os dados originais
 print("A carregar os datasets originais...")
 df_fake = pd.read_csv(fake_path)
 df_real = pd.read_csv(real_path)
 
-# DICA DE OURO: Apenas 50 linhas de cada para a Prova de Conceito
 df_fake = df_fake.head(50).copy()
 df_real = df_real.head(50).copy()
 
-# 3. Renomear e classificar
 df_fake.rename(columns={'title': 'Texto_Publicacao', 'fact_check_url': 'Fonte'}, inplace=True)
 df_real.rename(columns={'title': 'Texto_Publicacao', 'fact_check_url': 'Fonte'}, inplace=True)
 
