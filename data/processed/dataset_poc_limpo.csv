@@ -1,0 +1,78 @@
+Texto_Publicacao,Fonte,Categoria,Credibilidade_Base,Likes,Compartilhamentos,Sentimento_Rotulo,Sentimento_Score
+"""Pulverizar cloro ou álcool na pele mata vírus no corpo""",medicalnewstoday.com,Desinformação,0.5,910,931,NEU,0.9029296040534973
+“Apenas idosos e jovens estão em risco”,medicalnewstoday.com,Desinformação,0.5,3822,226,NEU,0.9466508030891418
+"""As crianças não podem contrair COVID-19""",medicalnewstoday.com,Desinformação,0.5,3142,773,NEU,0.8897769451141357
+"""A COVID-19 é como a gripe""",medicalnewstoday.com,Desinformação,0.5,516,197,NEU,0.8630512356758118
+"""Todos com COVID-19 morrem""",medicalnewstoday.com,Desinformação,0.5,4476,389,NEU,0.7779422998428345
+“Gatos e cães espalham coronavírus”,medicalnewstoday.com,Desinformação,0.5,3494,502,NEU,0.9548057317733765
+“Máscaras sempre protegem contra coronavírus”,medicalnewstoday.com,Desinformação,0.5,3221,50,NEU,0.9299110174179077
+“Secadores de mãos matam coronavírus”,medicalnewstoday.com,Desinformação,0.5,2969,166,NEU,0.9628869891166687
+"""O SARS-CoV-2 é apenas uma forma mutada do resfriado comum""",medicalnewstoday.com,Desinformação,0.5,180,24,NEU,0.8214211463928223
+"""Você tem que estar com alguém por 10 minutos para pegar o vírus""",medicalnewstoday.com,Desinformação,0.5,1735,822,NEU,0.9482449293136597
+“Enxaguar o nariz com soro fisiológico protege contra o coronavírus”,medicalnewstoday.com,Desinformação,0.5,819,74,NEU,0.9265336990356445
+"""Você pode se proteger gargarejando água sanitária""",medicalnewstoday.com,Desinformação,0.5,2441,866,NEU,0.8937082290649414
+“Antibióticos matam coronavírus”,medicalnewstoday.com,Desinformação,0.5,2483,848,NEU,0.9455259442329407
+"""Scanners térmicos podem diagnosticar coronavírus""",medicalnewstoday.com,Desinformação,0.5,1234,530,NEU,0.9531027674674988
+“Alho protege contra coronavírus”,medicalnewstoday.com,Desinformação,0.5,4605,353,NEU,0.9223021268844604
+"""Encomendas da China podem espalhar o coronavírus""",medicalnewstoday.com,Desinformação,0.5,3435,138,NEU,0.9517187476158142
+"""Remédios caseiros podem curar e proteger contra a COVID-19""",medicalnewstoday.com,Desinformação,0.5,4167,657,NEU,0.9230996370315552
+"""Você pode pegar o coronavírus comendo comida chinesa nos EUA""",medicalnewstoday.com,Desinformação,0.5,4893,481,NEU,0.9199440479278564
+"""Você pode pegar o coronavírus da urina e das fezes""",medicalnewstoday.com,Desinformação,0.5,2954,72,NEU,0.8970713019371033
+"""O vírus morrerá quando as temperaturas subirem na primavera""",medicalnewstoday.com,Desinformação,0.5,524,148,NEU,0.8871973752975464
+"""O coronavírus é o vírus mais mortal conhecido pelos seres humanos""",medicalnewstoday.com,Desinformação,0.5,1132,508,NEU,0.7950738668441772
+"""Vacinas contra gripe e pneumonia podem proteger contra a COVID-19""",medicalnewstoday.com,Desinformação,0.5,2608,602,NEU,0.9064943194389343
+"""O vírus se originou em um laboratório na China""",medicalnewstoday.com,Desinformação,0.5,2097,401,NEU,0.9509381651878357
+"""O surto começou porque as pessoas comeram sopa de morcego""",medicalnewstoday.com,Desinformação,0.5,2797,684,NEU,0.9452734589576721
+"""O 5G ajuda na disseminação do SARS-CoV-2""",medicalnewstoday.com,Desinformação,0.5,1025,428,NEU,0.9535331726074219
+"""Beber álcool reduz o risco de infecção""",medicalnewstoday.com,Desinformação,0.5,1856,298,NEU,0.9324166178703308
+"""Injetar ou consumir alvejante ou desinfetante mata o vírus""",medicalnewstoday.com,Desinformação,0.5,239,388,NEU,0.8999629616737366
+"""Quão grande uma reunião ou evento precisa ser para ser uma "" reunião em massa ""?""",who.int,Oficial/Fato,2.5,2784,782,NEU,0.9576456546783447
+"""A OMS recomenda que todas as reuniões de massa internacionais sejam canceladas por causa da COVID-19?""",who.int,Oficial/Fato,2.5,3055,499,NEU,0.8195229172706604
+"""Quais fatores os organizadores e as autoridades de saúde devem considerar ao avaliar se os riscos são aceitáveis ou não?""",who.int,Oficial/Fato,2.5,4708,240,NEU,0.9362261891365051
+"""E se minha organização não tiver experiência para avaliar os riscos que a COVID-19 representa para nossa reunião em massa planejada?""",who.int,Oficial/Fato,2.5,1949,50,NEU,0.895160973072052
+"""Se avançarmos com uma reunião internacional em massa, o que podemos fazer para reduzir o risco de os participantes contraírem COVID-19?""",who.int,Oficial/Fato,2.5,1317,37,NEU,0.958791971206665
+"""Onde posso encontrar mais conselhos sobre a avaliação e gestão de riscos para a saúde em torno de reuniões de massa internacionais?""",who.int,Oficial/Fato,2.5,1578,144,NEU,0.9572807550430298
+"""Quais devem ser os critérios para excluir um atleta ou outro participante credenciado de competir?""",who.int,Oficial/Fato,2.5,3252,210,NEU,0.8992712497711182
+"""Os organizadores do evento devem organizar a exibição em locais além dos requisitos do governo nacional para o ponto de entrada (Poe)?""",who.int,Oficial/Fato,2.5,3606,849,NEU,0.9359767436981201
+"""Os organizadores do evento devem fornecer testes de COVID-19?""",who.int,Oficial/Fato,2.5,3940,789,NEU,0.9406999349594116
+"""Existem salvaguardas adicionais que os organizadores do evento podem implementar ou recomendar aos atletas/funcionários/visitantes no contexto da COVID-19?""",who.int,Oficial/Fato,2.5,696,939,NEU,0.9503853917121887
+“Quais são os riscos decorrentes do transporte público para o (s) local(is)?”,who.int,Oficial/Fato,2.5,2938,42,NEU,0.9265785217285156
+"""O que é um coronavírus?""",who.int,Oficial/Fato,2.5,2485,57,NEU,0.965580403804779
+O QUE É A COVID-19,who.int,Oficial/Fato,2.5,650,512,NEG,0.5446541905403137
+"""Quais são os sintomas da COVID-19?""",who.int,Oficial/Fato,2.5,2413,416,NEU,0.9539925456047058
+Como o COVID-19 se espalha?,who.int,Oficial/Fato,2.5,2111,583,NEU,0.7745785713195801
+"""O vírus que causa a COVID-19 pode ser transmitido pelo ar?""",who.int,Oficial/Fato,2.5,291,737,NEU,0.8940094709396362
+"""O CoVID-19 pode ser contraído de uma pessoa que não apresenta sintomas?""",who.int,Oficial/Fato,2.5,2091,814,NEU,0.8833355903625488
+"""Posso pegar COVID-19 das fezes de alguém com a doença?""",who.int,Oficial/Fato,2.5,2874,108,NEU,0.8700236678123474
+"""O que posso fazer para me proteger e evitar a propagação de doenças?""",who.int,Oficial/Fato,2.5,2662,693,NEU,0.9408445954322815
+"""Qual é a probabilidade de eu pegar COVID-19?""",who.int,Oficial/Fato,2.5,1413,881,NEU,0.9463132619857788
+"""Devo me preocupar com a COVID-19?""",who.int,Oficial/Fato,2.5,1528,735,NEU,0.9170612692832947
+"""Quem corre o risco de desenvolver doenças graves?""",who.int,Oficial/Fato,2.5,2606,996,NEU,0.9198495745658875
+"""Os antibióticos são eficazes na prevenção ou tratamento da COVID-19?""",who.int,Oficial/Fato,2.5,825,556,NEU,0.9566225409507751
+"""Existem medicamentos ou terapias que podem prevenir ou curar a COVID-19?""",who.int,Oficial/Fato,2.5,4064,970,NEU,0.9502346515655518
+"""Existe uma vacina, medicamento ou tratamento para a COVID-19?""",who.int,Oficial/Fato,2.5,84,748,NEU,0.9405127167701721
+"""COVID-19 é o mesmo que SARS?""",who.int,Oficial/Fato,2.5,3202,622,NEU,0.8349782228469849
+"""Devo usar uma máscara para me proteger?""",who.int,Oficial/Fato,2.5,2005,952,NEU,0.9385627508163452
+"""Como colocar, usar, tirar e descartar uma máscara?""",who.int,Oficial/Fato,2.5,1635,471,NEU,0.9222392439842224
+"""Quanto tempo dura o período de incubação da COVID-19?""",who.int,Oficial/Fato,2.5,3993,652,NEU,0.9699329733848572
+"""Os seres humanos podem ser infectados com a COVID-19 a partir de uma fonte animal?""",who.int,Oficial/Fato,2.5,3123,778,NEU,0.9221690893173218
+"""Posso pegar COVID-19 do meu animal de estimação?""",who.int,Oficial/Fato,2.5,1071,14,NEU,0.9162381887435913
+"""Quanto tempo o vírus sobrevive nas superfícies?""",who.int,Oficial/Fato,2.5,3511,227,NEU,0.9725676774978638
+"""É seguro receber um pacote de qualquer área onde a COVID-19 tenha sido relatada?""",who.int,Oficial/Fato,2.5,2663,512,NEU,0.930473268032074
+"""Há algo que eu não deva fazer?""",who.int,Oficial/Fato,2.5,3893,776,NEU,0.9426609873771667
+"""A fonte do coronavírus causador da COVID-19 é conhecida?""",who.int,Oficial/Fato,2.5,1550,407,NEU,0.9224568605422974
+"""Como ocorreram as primeiras infecções humanas por SARS-CoV-2?""",who.int,Oficial/Fato,2.5,4848,880,NEU,0.9458606243133545
+"""A COVID-19 pode ser espalhada através de moedas e notas?""",who.int,Oficial/Fato,2.5,211,804,NEU,0.9498377442359924
+"""Como posso fazer compras de mercado com segurança na época da COVID-19?""",who.int,Oficial/Fato,2.5,4347,402,NEU,0.9644874930381775
+“Como lavar frutas e verduras na época da COVID-19?”,who.int,Oficial/Fato,2.5,2031,216,NEU,0.9663604497909546
+"""A COVID-19 está no ar?""",who.int,Oficial/Fato,2.5,1045,24,NEU,0.9291088581085205
+"""A contracepção/planejamento familiar é segura para uso durante a pandemia de COVID-19?""",who.int,Oficial/Fato,2.5,4961,867,NEU,0.9504023790359497
+"""Quero evitar engravidar durante a pandemia da COVID-19. O que posso fazer?""",who.int,Oficial/Fato,2.5,3392,563,NEU,0.9478772282600403
+"""Não consigo acessar meu método contraceptivo de escolha. O que você aconselha?""",who.int,Oficial/Fato,2.5,4601,901,NEU,0.9556708335876465
+"""Qual é o melhor método contraceptivo para usar durante a pandemia de COVID-19?""",who.int,Oficial/Fato,2.5,3848,470,NEU,0.9584579467773438
+"""Eu quero mudar meu método contraceptivo – isso é possível?""",who.int,Oficial/Fato,2.5,1325,700,NEU,0.9540282487869263
+"""Quero remover ou substituir meu implante ou DIU – posso fazer isso durante a pandemia de COVID-19?""",who.int,Oficial/Fato,2.5,1066,584,NEU,0.9491850733757019
+"""Por que fornecer contracepção/planejamento familiar, bem como serviços e informações de planejamento familiar, é importante durante a pandemia de COVID-19?""",who.int,Oficial/Fato,2.5,387,873,NEU,0.9319753050804138
+"""Eu sou um formulador de políticas. O que posso fazer para garantir que as pessoas possam acessar informações e serviços de contracepção e planejamento familiar?""",who.int,Oficial/Fato,2.5,928,752,NEU,0.9619531035423279
+"""Eu sou gerente de programa. O que posso fazer para ajudar as pessoas a acessar informações e serviços de contracepção e planejamento familiar?""",who.int,Oficial/Fato,2.5,1126,250,NEU,0.9670143723487854
+"""Como você pode limpar roupas de cama, toalhas e lençóis sujos de pacientes com COVID-19?""",who.int,Oficial/Fato,2.5,4937,573,NEU,0.9489650130271912
