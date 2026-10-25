@@ -31,7 +31,6 @@ Abra o seu terminal (ou Git Bash) e faça o download do projeto para a sua máqu
 git clone https://github.com/BeaUoU/pet-saude-digital-poc.git
 cd pet-saude-digital-poc
 ```
-(Nota: Não se esqueça de substituir SeuUsuario pelo seu nome de utilizador do GitHub).
 
 ### 3. Criar e Ativar o Ambiente Virtual
 Para garantir que as bibliotecas não entram em conflito com outros projetos do seu computador, crie um ambiente virtual isolado:
