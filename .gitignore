@@ -1,15 +1,11 @@
-# Ambientes Virtuais do Python
 venv/
 env/
 .env
 
-# Arquivos de Cache e Sistema
 __pycache__/
 *.pyc
 .DS_Store
 
-# Ignorar os dados brutos (Eles ficam só na sua máquina)
 data/raw/
 
-# Configurações locais do editor
 .vscode/
