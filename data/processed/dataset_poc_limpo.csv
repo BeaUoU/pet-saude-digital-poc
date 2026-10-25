@@ -1,78 +1,997 @@
-Texto_Publicacao,Fonte,Categoria,Credibilidade_Base,Likes,Compartilhamentos,Sentimento_Rotulo,Sentimento_Score
-"""Pulverizar cloro ou álcool na pele mata vírus no corpo""",medicalnewstoday.com,Desinformação,0.5,910,931,NEU,0.9029296040534973
-“Apenas idosos e jovens estão em risco”,medicalnewstoday.com,Desinformação,0.5,3822,226,NEU,0.9466508030891418
-"""As crianças não podem contrair COVID-19""",medicalnewstoday.com,Desinformação,0.5,3142,773,NEU,0.8897769451141357
-"""A COVID-19 é como a gripe""",medicalnewstoday.com,Desinformação,0.5,516,197,NEU,0.8630512356758118
-"""Todos com COVID-19 morrem""",medicalnewstoday.com,Desinformação,0.5,4476,389,NEU,0.7779422998428345
-“Gatos e cães espalham coronavírus”,medicalnewstoday.com,Desinformação,0.5,3494,502,NEU,0.9548057317733765
-“Máscaras sempre protegem contra coronavírus”,medicalnewstoday.com,Desinformação,0.5,3221,50,NEU,0.9299110174179077
-“Secadores de mãos matam coronavírus”,medicalnewstoday.com,Desinformação,0.5,2969,166,NEU,0.9628869891166687
-"""O SARS-CoV-2 é apenas uma forma mutada do resfriado comum""",medicalnewstoday.com,Desinformação,0.5,180,24,NEU,0.8214211463928223
-"""Você tem que estar com alguém por 10 minutos para pegar o vírus""",medicalnewstoday.com,Desinformação,0.5,1735,822,NEU,0.9482449293136597
-“Enxaguar o nariz com soro fisiológico protege contra o coronavírus”,medicalnewstoday.com,Desinformação,0.5,819,74,NEU,0.9265336990356445
-"""Você pode se proteger gargarejando água sanitária""",medicalnewstoday.com,Desinformação,0.5,2441,866,NEU,0.8937082290649414
-“Antibióticos matam coronavírus”,medicalnewstoday.com,Desinformação,0.5,2483,848,NEU,0.9455259442329407
-"""Scanners térmicos podem diagnosticar coronavírus""",medicalnewstoday.com,Desinformação,0.5,1234,530,NEU,0.9531027674674988
-“Alho protege contra coronavírus”,medicalnewstoday.com,Desinformação,0.5,4605,353,NEU,0.9223021268844604
-"""Encomendas da China podem espalhar o coronavírus""",medicalnewstoday.com,Desinformação,0.5,3435,138,NEU,0.9517187476158142
-"""Remédios caseiros podem curar e proteger contra a COVID-19""",medicalnewstoday.com,Desinformação,0.5,4167,657,NEU,0.9230996370315552
-"""Você pode pegar o coronavírus comendo comida chinesa nos EUA""",medicalnewstoday.com,Desinformação,0.5,4893,481,NEU,0.9199440479278564
-"""Você pode pegar o coronavírus da urina e das fezes""",medicalnewstoday.com,Desinformação,0.5,2954,72,NEU,0.8970713019371033
-"""O vírus morrerá quando as temperaturas subirem na primavera""",medicalnewstoday.com,Desinformação,0.5,524,148,NEU,0.8871973752975464
-"""O coronavírus é o vírus mais mortal conhecido pelos seres humanos""",medicalnewstoday.com,Desinformação,0.5,1132,508,NEU,0.7950738668441772
-"""Vacinas contra gripe e pneumonia podem proteger contra a COVID-19""",medicalnewstoday.com,Desinformação,0.5,2608,602,NEU,0.9064943194389343
-"""O vírus se originou em um laboratório na China""",medicalnewstoday.com,Desinformação,0.5,2097,401,NEU,0.9509381651878357
-"""O surto começou porque as pessoas comeram sopa de morcego""",medicalnewstoday.com,Desinformação,0.5,2797,684,NEU,0.9452734589576721
-"""O 5G ajuda na disseminação do SARS-CoV-2""",medicalnewstoday.com,Desinformação,0.5,1025,428,NEU,0.9535331726074219
-"""Beber álcool reduz o risco de infecção""",medicalnewstoday.com,Desinformação,0.5,1856,298,NEU,0.9324166178703308
-"""Injetar ou consumir alvejante ou desinfetante mata o vírus""",medicalnewstoday.com,Desinformação,0.5,239,388,NEU,0.8999629616737366
-"""Quão grande uma reunião ou evento precisa ser para ser uma "" reunião em massa ""?""",who.int,Oficial/Fato,2.5,2784,782,NEU,0.9576456546783447
-"""A OMS recomenda que todas as reuniões de massa internacionais sejam canceladas por causa da COVID-19?""",who.int,Oficial/Fato,2.5,3055,499,NEU,0.8195229172706604
-"""Quais fatores os organizadores e as autoridades de saúde devem considerar ao avaliar se os riscos são aceitáveis ou não?""",who.int,Oficial/Fato,2.5,4708,240,NEU,0.9362261891365051
-"""E se minha organização não tiver experiência para avaliar os riscos que a COVID-19 representa para nossa reunião em massa planejada?""",who.int,Oficial/Fato,2.5,1949,50,NEU,0.895160973072052
-"""Se avançarmos com uma reunião internacional em massa, o que podemos fazer para reduzir o risco de os participantes contraírem COVID-19?""",who.int,Oficial/Fato,2.5,1317,37,NEU,0.958791971206665
-"""Onde posso encontrar mais conselhos sobre a avaliação e gestão de riscos para a saúde em torno de reuniões de massa internacionais?""",who.int,Oficial/Fato,2.5,1578,144,NEU,0.9572807550430298
-"""Quais devem ser os critérios para excluir um atleta ou outro participante credenciado de competir?""",who.int,Oficial/Fato,2.5,3252,210,NEU,0.8992712497711182
-"""Os organizadores do evento devem organizar a exibição em locais além dos requisitos do governo nacional para o ponto de entrada (Poe)?""",who.int,Oficial/Fato,2.5,3606,849,NEU,0.9359767436981201
-"""Os organizadores do evento devem fornecer testes de COVID-19?""",who.int,Oficial/Fato,2.5,3940,789,NEU,0.9406999349594116
-"""Existem salvaguardas adicionais que os organizadores do evento podem implementar ou recomendar aos atletas/funcionários/visitantes no contexto da COVID-19?""",who.int,Oficial/Fato,2.5,696,939,NEU,0.9503853917121887
-“Quais são os riscos decorrentes do transporte público para o (s) local(is)?”,who.int,Oficial/Fato,2.5,2938,42,NEU,0.9265785217285156
-"""O que é um coronavírus?""",who.int,Oficial/Fato,2.5,2485,57,NEU,0.965580403804779
-O QUE É A COVID-19,who.int,Oficial/Fato,2.5,650,512,NEG,0.5446541905403137
-"""Quais são os sintomas da COVID-19?""",who.int,Oficial/Fato,2.5,2413,416,NEU,0.9539925456047058
-Como o COVID-19 se espalha?,who.int,Oficial/Fato,2.5,2111,583,NEU,0.7745785713195801
-"""O vírus que causa a COVID-19 pode ser transmitido pelo ar?""",who.int,Oficial/Fato,2.5,291,737,NEU,0.8940094709396362
-"""O CoVID-19 pode ser contraído de uma pessoa que não apresenta sintomas?""",who.int,Oficial/Fato,2.5,2091,814,NEU,0.8833355903625488
-"""Posso pegar COVID-19 das fezes de alguém com a doença?""",who.int,Oficial/Fato,2.5,2874,108,NEU,0.8700236678123474
-"""O que posso fazer para me proteger e evitar a propagação de doenças?""",who.int,Oficial/Fato,2.5,2662,693,NEU,0.9408445954322815
-"""Qual é a probabilidade de eu pegar COVID-19?""",who.int,Oficial/Fato,2.5,1413,881,NEU,0.9463132619857788
-"""Devo me preocupar com a COVID-19?""",who.int,Oficial/Fato,2.5,1528,735,NEU,0.9170612692832947
-"""Quem corre o risco de desenvolver doenças graves?""",who.int,Oficial/Fato,2.5,2606,996,NEU,0.9198495745658875
-"""Os antibióticos são eficazes na prevenção ou tratamento da COVID-19?""",who.int,Oficial/Fato,2.5,825,556,NEU,0.9566225409507751
-"""Existem medicamentos ou terapias que podem prevenir ou curar a COVID-19?""",who.int,Oficial/Fato,2.5,4064,970,NEU,0.9502346515655518
-"""Existe uma vacina, medicamento ou tratamento para a COVID-19?""",who.int,Oficial/Fato,2.5,84,748,NEU,0.9405127167701721
-"""COVID-19 é o mesmo que SARS?""",who.int,Oficial/Fato,2.5,3202,622,NEU,0.8349782228469849
-"""Devo usar uma máscara para me proteger?""",who.int,Oficial/Fato,2.5,2005,952,NEU,0.9385627508163452
-"""Como colocar, usar, tirar e descartar uma máscara?""",who.int,Oficial/Fato,2.5,1635,471,NEU,0.9222392439842224
-"""Quanto tempo dura o período de incubação da COVID-19?""",who.int,Oficial/Fato,2.5,3993,652,NEU,0.9699329733848572
-"""Os seres humanos podem ser infectados com a COVID-19 a partir de uma fonte animal?""",who.int,Oficial/Fato,2.5,3123,778,NEU,0.9221690893173218
-"""Posso pegar COVID-19 do meu animal de estimação?""",who.int,Oficial/Fato,2.5,1071,14,NEU,0.9162381887435913
-"""Quanto tempo o vírus sobrevive nas superfícies?""",who.int,Oficial/Fato,2.5,3511,227,NEU,0.9725676774978638
-"""É seguro receber um pacote de qualquer área onde a COVID-19 tenha sido relatada?""",who.int,Oficial/Fato,2.5,2663,512,NEU,0.930473268032074
-"""Há algo que eu não deva fazer?""",who.int,Oficial/Fato,2.5,3893,776,NEU,0.9426609873771667
-"""A fonte do coronavírus causador da COVID-19 é conhecida?""",who.int,Oficial/Fato,2.5,1550,407,NEU,0.9224568605422974
-"""Como ocorreram as primeiras infecções humanas por SARS-CoV-2?""",who.int,Oficial/Fato,2.5,4848,880,NEU,0.9458606243133545
-"""A COVID-19 pode ser espalhada através de moedas e notas?""",who.int,Oficial/Fato,2.5,211,804,NEU,0.9498377442359924
-"""Como posso fazer compras de mercado com segurança na época da COVID-19?""",who.int,Oficial/Fato,2.5,4347,402,NEU,0.9644874930381775
-“Como lavar frutas e verduras na época da COVID-19?”,who.int,Oficial/Fato,2.5,2031,216,NEU,0.9663604497909546
-"""A COVID-19 está no ar?""",who.int,Oficial/Fato,2.5,1045,24,NEU,0.9291088581085205
-"""A contracepção/planejamento familiar é segura para uso durante a pandemia de COVID-19?""",who.int,Oficial/Fato,2.5,4961,867,NEU,0.9504023790359497
-"""Quero evitar engravidar durante a pandemia da COVID-19. O que posso fazer?""",who.int,Oficial/Fato,2.5,3392,563,NEU,0.9478772282600403
-"""Não consigo acessar meu método contraceptivo de escolha. O que você aconselha?""",who.int,Oficial/Fato,2.5,4601,901,NEU,0.9556708335876465
-"""Qual é o melhor método contraceptivo para usar durante a pandemia de COVID-19?""",who.int,Oficial/Fato,2.5,3848,470,NEU,0.9584579467773438
-"""Eu quero mudar meu método contraceptivo – isso é possível?""",who.int,Oficial/Fato,2.5,1325,700,NEU,0.9540282487869263
-"""Quero remover ou substituir meu implante ou DIU – posso fazer isso durante a pandemia de COVID-19?""",who.int,Oficial/Fato,2.5,1066,584,NEU,0.9491850733757019
-"""Por que fornecer contracepção/planejamento familiar, bem como serviços e informações de planejamento familiar, é importante durante a pandemia de COVID-19?""",who.int,Oficial/Fato,2.5,387,873,NEU,0.9319753050804138
-"""Eu sou um formulador de políticas. O que posso fazer para garantir que as pessoas possam acessar informações e serviços de contracepção e planejamento familiar?""",who.int,Oficial/Fato,2.5,928,752,NEU,0.9619531035423279
-"""Eu sou gerente de programa. O que posso fazer para ajudar as pessoas a acessar informações e serviços de contracepção e planejamento familiar?""",who.int,Oficial/Fato,2.5,1126,250,NEU,0.9670143723487854
-"""Como você pode limpar roupas de cama, toalhas e lençóis sujos de pacientes com COVID-19?""",who.int,Oficial/Fato,2.5,4937,573,NEU,0.9489650130271912
+Texto_Publicacao,Fonte,Categoria,Likes,Compartilhamentos
+"Tiny implantable device short-circuits hunger pangs, aids weight loss",https://web.archive.org,Oficial/Fato,7218,1096
+Scientists report CRISPR restores effectiveness of lung cancer treatment,https://web.archive.org,Oficial/Fato,6705,397
+Probiotics could help millions of patients suffering from bipolar disorder,https://web.archive.org,Oficial/Fato,5488,297
+Yes Please to Yogurt and Cheese: The New Improved Mediterranean Diet,https://www.newswise.com,Oficial/Fato,2047,1014
+Johns Hopkins team identifies promising diagnostic tool for Alzheimer's disease,https://web.archive.org,Oficial/Fato,6701,1982
+Cedars-Sinai Surgeon Uses New Device to Perform First-Ever Surgery,https://www.newswise.com,Oficial/Fato,5501,533
+Vitamin C May Reduce Harm to Infants’ Lungs Caused by Smoking During Pregnancy;,https://www.newswise.com,Oficial/Fato,7047,219
+Mayo researchers say oral apixaban safe and effective for treating blood clots in cancer patients,https://web.archive.org,Oficial/Fato,4064,1714
+Extract from soursop leaves can prevent the symptoms of fibromyalgia,https://web.archive.org,Oficial/Fato,1220,860
+Pulsed radiofrequency relieves acute back pain and sciatica,https://web.archive.org,Oficial/Fato,6632,882
+Electrical stimulation in the nose induces sense of smell in human subjects,https://www.newswise.com,Oficial/Fato,1343,1192
+MRI scans shows promise in predicting dementia,https://web.archive.org,Oficial/Fato,8060,271
+New blood test detects early stage ovarian cancer,https://web.archive.org,Oficial/Fato,812,218
+"Can't exercise? A hot bath may help improve inflammation, metabolism, study suggests",https://web.archive.org,Oficial/Fato,6368,1041
+First-ever prostate cancer treatment uses gold nanoparticles to destroy tumorous cells,https://www.newswise.com,Oficial/Fato,6135,889
+Fecal transplant effective against immunotherapy-induced colitis,https://www.newswise.com,Oficial/Fato,7464,979
+"Mailed HPV tests can help find women at-risk for cervical cancer, study finds",https://web.archive.org,Oficial/Fato,7289,786
+Fermented dairy products may protect against heart attack,https://web.archive.org,Oficial/Fato,7921,1698
+Aspirin alone a good clot buster after knee surgery,https://web.archive.org,Oficial/Fato,4931,1654
+Surgery technique reduces strokes in atherosclerosis patients,https://web.archive.org,Oficial/Fato,5927,225
+Distinguishing fatal prostate cancer from 'manageable' cancer now possible,https://web.archive.org,Oficial/Fato,2871,138
+'Universal' blood test for earlier diagnosis of cancer moves closer to market,https://web.archive.org,Oficial/Fato,4206,1477
+Getting relief from sexual dysfunction and incontinence caused by menopause,https://web.archive.org,Oficial/Fato,2134,725
+High-Precision Proton Therapy More Effective in Treating Certain Cancers When Combined with Thermal Therapy,https://www.newswise.com,Oficial/Fato,903,507
+Study shows diet and weight may affect response to bipolar disorder treatment,https://web.archive.org,Oficial/Fato,1750,465
+Midwifery linked to lower odds of birth complications for low-income women,https://web.archive.org,Oficial/Fato,1940,287
+New cancer vaccine shows early promise for patients with HER2-positive cancers,https://web.archive.org,Oficial/Fato,6881,1974
+Milk protein shown to alleviate chemotherapy side effects,https://web.archive.org,Oficial/Fato,4070,902
+Combo therapy of prostatectomy plus radiotherapy may improve survival in prostate cancer,https://web.archive.org,Oficial/Fato,6294,164
+Weight loss can be boosted fivefold thanks to novel mental imagery technique,https://web.archive.org,Oficial/Fato,5802,247
+"Too many people missing out on health benefits of golf, says expert panel",https://web.archive.org,Oficial/Fato,5459,1789
+First-Ever Rapid Response Test for Levels of Bifidobacterium in Baby's Gut Microbiome,https://www.prnewswire.com,Oficial/Fato,3888,173
+Zika vaccine shows promise for treating deadly brain cancer,https://web.archive.org,Oficial/Fato,895,1170
+New blood test detects early stage pancreatic cancer,https://web.archive.org,Oficial/Fato,6533,1980
+Testosterone replacement therapy may slow the progression of COPD,https://web.archive.org,Oficial/Fato,6588,1288
+Nucleix Announces Positive Clinical Results for Lung EpiCheck in Early Detection of Lung Cancer,https://www.prnewswire.com,Oficial/Fato,8189,251
+"Newly Published Results Show Investigational Treatment Brexanolone Consistently Reduced Depressive Symptoms Across Three Postpartum Depression Trials,...",https://www.newswise.com,Oficial/Fato,4431,401
+NUS researchers use AI to successfully treat metastatic cancer patient,https://web.archive.org,Oficial/Fato,5880,378
+Combination approach shows promise for beating advanced melanoma,https://web.archive.org,Oficial/Fato,6530,1255
+"Scans cut heart attack rates and save lives, major study finds",https://web.archive.org,Oficial/Fato,5930,244
+Breastfeeding may help protect mothers against stroke,https://web.archive.org,Oficial/Fato,6846,1793
+"Simple score to diagnose heart attacks is safer, faster than current methods",https://web.archive.org,Oficial/Fato,2485,362
+Blood test may identify gestational diabetes risk in first trimester,https://www.nih.gov,Oficial/Fato,6129,1793
+Preliminary Data from Study Demonstrates 94% Accuracy in Detecting Aggressive Prostate Cancer,https://www.prnewswire.com,Oficial/Fato,8006,508
+"Innovative triple pill significantly lowers blood pressure, study finds",https://web.archive.org,Oficial/Fato,8360,1991
+Association of radiation therapy plus lumpectomy in reduced risk of dying in women with DCIS,https://web.archive.org,Oficial/Fato,2822,519
+New emerging research suggests Montmorency tart cherries may help enhance gut health,https://web.archive.org,Oficial/Fato,3237,728
+"""Liquid biopsy"" test improves health outcomes and can save over $500 million annually for the U.S. healthcare system",https://www.prnewswire.com,Oficial/Fato,1611,418
+Gas sensing gut pill beats breath test diagnosis,https://web.archive.org,Oficial/Fato,1426,1608
+A brain injury diagnosed with a single drop of blood,https://web.archive.org,Oficial/Fato,6372,1547
+New stroke imaging technology could reduce potential for patient brain damage,https://web.archive.org,Oficial/Fato,2206,1665
+Treating dementia with the healing waves of sound,https://web.archive.org,Oficial/Fato,4278,903
+"Sugar improves memory in over-60s, helping them work smarter",https://web.archive.org,Oficial/Fato,6526,758
+Stem Cells Shows Promise For Repairing Torn Meniscus,https://www.prnewswire.com,Oficial/Fato,8493,1624
+Robotic surgery as effective as open surgery for bladder cancer,https://web.archive.org,Oficial/Fato,6360,1553
+"New hope for patients with incurable and disabling hand condition, Dupuytren's disease",https://web.archive.org,Oficial/Fato,8142,1079
+Older patients with knee pain may benefit from allograft transplant technique,https://web.archive.org,Oficial/Fato,5429,1514
+Cardiac hybrid imaging an effective tool for predicting heart attacks,https://web.archive.org,Oficial/Fato,7505,375
+Blood Test Predicts Treatment Response and Survival for Patients with Metastatic Prostate Cancer,https://www.prnewswire.com,Oficial/Fato,2406,1621
+Blood test predicts spastic cerebral palsy,https://web.archive.org,Oficial/Fato,3251,1668
+California man's research leads him to Beaumont's Proton Therapy Center in Michigan,https://www.prnewswire.com,Oficial/Fato,3548,1081
+BCG vaccine leads to long-term blood sugar improvement in type 1 diabetes patients,https://web.archive.org,Oficial/Fato,4709,1003
+Large international study links blood vitamin D levels to colorectal cancer risk,https://web.archive.org,Oficial/Fato,2073,904
+XARELTO® (rivaroxaban) Associated with Significantly Reduced Time in Hospital and Decreased Costs Compared to Standard of Care in New Study of Patient...,https://www.prnewswire.com,Oficial/Fato,6437,1993
+Temple researchers reverse cognitive impairments in mice with dementia,https://web.archive.org,Oficial/Fato,7533,1295
+Mangoes helped improve cardiovascular and gut health in women,https://web.archive.org,Oficial/Fato,1926,996
+Spironolactone may be an alternative to antibiotics in women's acne treatment,https://www.eurekalert.org,Oficial/Fato,6781,1573
+Adding Atezolizumab Immunotherapy to Chemotherapy Slows Growth of Advanced Squamous Lung Cancer,https://www.asco.org,Oficial/Fato,2045,875
+"Promise of faster, more accessible schizophrenia diagnosis, Rutgers study shows",https://web.archive.org,Oficial/Fato,6387,328
+New Real-World Study Finds Long-Term XARELTO® (rivaroxaban) Use Resulted in Fewer Strokes and Systemic Emboli Compared to Warfarin in Frail Patients w...,https://www.prnewswire.com,Oficial/Fato,7724,287
+Procedure plus medication is better than standard treatment for heart disease patients,https://web.archive.org,Oficial/Fato,7482,227
+Mice regrow brain tissue after stroke with bioengineered gel,https://web.archive.org,Oficial/Fato,895,1838
+UTA researcher patents “roach motel” for cancer,https://www.uta.edu,Oficial/Fato,2663,1505
+UAB Recruiting for Clinical Trial to Determine Therapies for Eradication of Multiple Myeloma,https://www.newswise.com,Oficial/Fato,6383,761
+Rush is First to Use Microburst Vagus Nerve Stimulation for Drug-Resistant Epilepsy,https://www.newswise.com,Oficial/Fato,560,1428
+"For women with history of pregnancy loss, walking may aid chance of becoming pregnant",https://web.archive.org,Oficial/Fato,7489,1738
+Sylentis announces the results of tivanisiran for dry eye syndrome,https://www.eurekalert.org,Oficial/Fato,7820,1929
+New Phase 3 Data Show Esketamine Nasal Spray Demonstrated Rapid Improvements in Depressive Symptoms in Patients with Treatment-Resistant Depression,https://www.prnewswire.com,Oficial/Fato,1116,1671
+New research ranks the effectiveness of nonsurgical treatments for knee osteoarthritis,https://www.eurekalert.org,Oficial/Fato,1636,878
+"Clinical trial offers natural eczema treatment, using good bacteria to fight the bad",https://web.archive.org,Oficial/Fato,7326,1799
+New breath and urine tests detect early breast cancer more accurately,https://web.archive.org,Oficial/Fato,5538,1147
+Researchers use smart phone to make a faster infection detector,https://web.archive.org,Oficial/Fato,5814,1638
+Eating more fish could prevent Parkinson's disease,https://web.archive.org,Oficial/Fato,2383,1967
+"Brain scans may help diagnose neurological, psychiatric disorders",https://web.archive.org,Oficial/Fato,4431,1944
+"Screenings miss half of diabetic, prediabetic patients",https://www.eurekalert.org,Oficial/Fato,7523,1987
+University of Waterloo develops new way to fight HIV transmission,https://www.eurekalert.org,Oficial/Fato,7156,1155
+Multiple Studies Show Freespira® Eliminates Panic Attacks in 80% of Patients,https://www.prnewswire.com,Oficial/Fato,6435,1745
+New class of drugs could help tackle treatment-resistant cancers,https://www.eurekalert.org,Oficial/Fato,4864,1926
+New drug combo improves survival of women with rare uterine cancer,https://www.eurekalert.org,Oficial/Fato,3944,1945
+Allina study shows patients with very small breast tumors may forgo lymph node biopsies,https://web.archive.org,Oficial/Fato,1607,1589
+Acupressure for menstrual pain,https://web.archive.org,Oficial/Fato,6925,1885
+Noninvasive stimulation device can help prevent migraine attacks,https://www.eurekalert.org,Oficial/Fato,3304,1586
+Pediatric cancer drug shows 93 percent response rate,https://web.archive.org,Oficial/Fato,2270,1697
+Portable device detects severe stroke in seconds with 92 percent accuracy,https://web.archive.org,Oficial/Fato,5334,1072
+Canadian neuroscientists say daily ibuprofen can prevent Alzheimer's disease,https://web.archive.org,Oficial/Fato,3498,1352
+Eating pecans had significant effect on biomarkers of heart disease and type 2 diabetes,https://web.archive.org,Oficial/Fato,2594,119
+Minimally invasive treatment reduces knee pain and disability from osteoarthritis,https://web.archive.org,Oficial/Fato,6513,1613
+Targeted immunotherapy treatment shows promise for treating advanced stage liver tumors,https://web.archive.org,Oficial/Fato,604,1419
+Screening mammography for women 40-49 detects more cancers compared with older age groups,https://web.archive.org,Oficial/Fato,810,1359
+Researchers find bone density scans can also help identify cardiovascular disease,https://web.archive.org,Oficial/Fato,4430,925
+New tool helps identify risk for post-surgical dislocations following hip replacement,https://web.archive.org,Oficial/Fato,5363,1001
+HETLIOZ® (tasimelteon) Demonstrates Efficacy to Treat Jet Lag Disorder in an 8 Hour Phase Advance Clinical Study,https://www.prnewswire.com,Oficial/Fato,3093,1131
+Why the latest shingles vaccine is more than 90 percent effective,https://web.archive.org,Oficial/Fato,5918,630
+Nut consumption may aid colon cancer survival,http://yalecancercenter.org,Oficial/Fato,3423,328
+Scorpion venom component can reduce severity of rheumatoid arthritis,https://www.eurekalert.org,Oficial/Fato,5685,306
+Diet shown to reduce stroke risk may also reduce risk of depression,https://web.archive.org,Oficial/Fato,6626,939
+Vegetarian and Mediterranean diet may be equally effective in preventing heart disease,https://web.archive.org,Oficial/Fato,6345,111
+MRI technique differentiates benign breast lesions from malignancies,https://web.archive.org,Oficial/Fato,4522,1274
+FDA authorizes marketing of first blood test to aid in the evaluation of concussion in adults,https://www.fda.gov,Oficial/Fato,770,1469
+"NIH scientists adapt new brain disease test for Parkinson’s, dementia with Lewy bodies",https://www.nih.gov,Oficial/Fato,2060,1895
+Medical cannabis significantly safer for elderly with chronic pain than opioids,https://web.archive.org,Oficial/Fato,2416,175
+Drug shown to reverse brain deficits caused by alcohol,https://web.archive.org,Oficial/Fato,8106,1808
+Extending dosing intervals reduces deadly side effect risk from multiple sclerosis drug,https://web.archive.org,Oficial/Fato,3434,1792
+Device Keeps Donor Kidneys Healthy Outside the Body Until Transplant,http://www.newswise.com,Oficial/Fato,1604,124
+"Choose Omega-3s from fish over flax for cancer prevention, study finds",https://web.archive.org,Oficial/Fato,3721,545
+Direct-to-implant breast reconstruction provides good results in older women,https://web.archive.org,Oficial/Fato,1612,769
+Prompt clot-grabbing treatment produces better stroke outcomes,https://www.eurekalert.org,Oficial/Fato,6619,111
+Cavity prevention approach effectively reduces tooth decay,https://www.eurekalert.org,Oficial/Fato,2663,459
+"Curcumin Improves Memory and Mood, New UCLA Study Says",https://www.newswise.com,Oficial/Fato,3576,1181
+Postoperative wound monitoring app can reduce readmissions and improve patient care,https://web.archive.org,Oficial/Fato,8048,781
+Prebiotics in infant formula could improve learning and memory and alter brain chemistry,https://web.archive.org,Oficial/Fato,764,1547
+Weight-loss surgery associated with lower rate of death,https://web.archive.org,Oficial/Fato,6716,910
+Boston Scientific Receives U.S. FDA Approval for Spectra WaveWriter™ Spinal Cord Stimulator System,https://web.archive.org,Oficial/Fato,1012,1413
+Cancer targeted with reusable 'stinging nettle' treatment,https://web.archive.org,Oficial/Fato,5541,1098
+Proper exercise can reverse damage from heart aging,https://web.archive.org,Oficial/Fato,7948,175
+"In clinical trial, cream reduces squamous cell carcinoma risk",https://web.archive.org,Oficial/Fato,7582,1694
+"Migraine surgery produces 'dramatic improvements' in functioning, study finds",https://web.archive.org,Oficial/Fato,2347,1984
+High doses of vitamin D rapidly reduce arterial stiffness,https://web.archive.org,Oficial/Fato,8262,1905
+Researchers find potential path to repair MS-damaged nerves,https://web.archive.org,Oficial/Fato,4820,869
+"Weekly fish consumption linked to better sleep, higher IQ, Penn study finds",https://web.archive.org,Oficial/Fato,1331,334
+Screening could prevent a quarter of hip fractures in older women,https://web.archive.org,Oficial/Fato,5425,967
+Can you burn calories while sitting at a desk?,https://today.uic.edu,Oficial/Fato,3311,630
+Allergan Receives FDA Clearance For the CoolSculpting® Treatment To Improve Appearance Of Lax Tissue In The Double Chin,https://www.prnewswire.com,Oficial/Fato,2772,1702
+"Soy, cruciferous vegetables associated with fewer common breast cancer treatment side effects",https://web.archive.org,Oficial/Fato,6001,1252
+Marijuana May Help HIV Patients Keep Mental Stamina Longer,https://web.archive.org,Oficial/Fato,1778,675
+Type 2 diabetes is not for life,https://web.archive.org,Oficial/Fato,6002,1546
+Minimally invasive treatment provides relief from back pain,https://web.archive.org,Oficial/Fato,4934,791
+Abbreviated breast MRI may be additional screening option for dense breasts,https://www.eurekalert.org,Oficial/Fato,2026,840
+Cinnamon turns up the heat on fat cells,https://www.eurekalert.org,Oficial/Fato,4352,1876
+"Simple Electrocardiogram Can Determine Whether a Patient Has Major Depression or Bipolar Disorder, Study Finds",http://mailchi.mp,Oficial/Fato,597,690
+Study shows therapy improves quality of life in people who have sleep apnea,https://www.eurekalert.org,Oficial/Fato,8200,1755
+"Devenish Announces World's First Naturally Enriched Omega-3 Chicken and Eggs With Proven Health Claims - Likely to Reduce Risk of Heart Attack, Stroke...",https://www.prnewswire.com,Oficial/Fato,726,901
+Landmark study may impact standard stroke treatment guidelines,https://web.archive.org,Oficial/Fato,3970,571
+HPV testing is better than the Pap test at detecting cervical cancer,https://web.archive.org,Oficial/Fato,4255,159
+Northwestern Medicine offers new Minimally Invasive Breakthrough Treatment for Enlarged Prostate,https://www.prnewswire.com,Oficial/Fato,8031,378
+No significant difference in pain relief for opioids vs. non-opioid analgesics for treating arm or leg pain,https://web.archive.org,Oficial/Fato,4747,309
+Scientists make significant breakthrough on superbug-killing antibiotic teixobactin,https://web.archive.org,Oficial/Fato,4167,731
+"Lose fat, preserve muscle: Weight training beats cardio for older adults",https://web.archive.org,Oficial/Fato,3615,986
+"Research pinpoints powerful biomarker of ,ultiple sclerosis",https://web.archive.org,Oficial/Fato,4237,1304
+Using Radar to Make Breast Surgery Easier for Women,https://www.newswise.com,Oficial/Fato,1993,1251
+Good long-term improvement after 'reverse' shoulder replacement in patients under 60,https://web.archive.org,Oficial/Fato,4684,578
+Breast cancer: genetic test could help fight secondary breast cancer,https://www.sheffield.ac.uk,Oficial/Fato,2242,1902
+Early data shows nearly 2x prolonged median survival for inoperable pancreatic cancer,https://web.archive.org,Oficial/Fato,2053,925
+Creative Medical Technology Holdings Announces Commercialization of patented Stem Cell Procedure for Erectile Dysfunction,https://www.prnewswire.com,Oficial/Fato,4967,934
+On-and-off fasting helps fight obesity,https://web.archive.org,Oficial/Fato,5736,1548
+Promising New Leprosy Vaccine Moves Into Human Trials,http://www.prnewswire.com,Oficial/Fato,8441,536
+Allergy drug improves function in patients with chronic injury from multiple sclerosis,https://web.archive.org,Oficial/Fato,5359,1296
+Ibuprofen better choice over oral morphine for pain relief in children after minor surgery,https://web.archive.org,Oficial/Fato,687,1749
+Multivitamins in pregnancy may be linked to lower autism risk in children,http://www.bmj.com,Oficial/Fato,7381,655
+"Black tea may help with weight loss, too",https://web.archive.org,Oficial/Fato,6236,614
+Text messaging program may help pregnant women kick the smoking habit,https://web.archive.org,Oficial/Fato,8287,1579
+Cooling treatment reduces epilepsy in children,https://www.eurekalert.org,Oficial/Fato,6362,442
+Genetic testing helps set safe dose of common blood thinner,https://www.eurekalert.org,Oficial/Fato,6138,1533
+New delayed-release stimulant improves morning ADHD symptoms and all-day functioning,https://web.archive.org,Oficial/Fato,2313,1919
+Comprehensive meta-analysis affirms cranberries' role in promoting a healthy urinary tract,https://web.archive.org,Oficial/Fato,5391,882
+Sleep deprivation is an effective anti-depressant for nearly half of depressed patients,https://web.archive.org,Oficial/Fato,2075,1585
+"LED lights safer, more effective in producing Vitamin D3 than sunlight",https://web.archive.org,Oficial/Fato,2862,1976
+Therapy proves effective in subgroup of COPD patients,https://web.archive.org,Oficial/Fato,2644,1459
+New research to treat acute malnutrition,https://web.archive.org,Oficial/Fato,4048,1960
+"Small increases in physical activity reduce immobility, disability risks in older adults",https://www.eurekalert.org,Oficial/Fato,2048,1569
+"Arthrokinex Announces IRAPjoint Product, a Non-Drug, Non-Surgical Joint Pain Management Solution Made From Your Own Blood.",http://www.prnewswire.com,Oficial/Fato,7783,613
+Longtime antidepressant could slow Parkinson's,https://web.archive.org,Oficial/Fato,1589,1165
+Scientists discover and target brain area in patients with schizophrenia who 'hear voices',https://web.archive.org,Oficial/Fato,6701,1536
+New osteoporosis treatment uses traditional Chinese herb to prevent bone loss,https://web.archive.org,Oficial/Fato,5287,1369
+Compounds in cocoa may help delay onset of type 2 diabetes,https://web.archive.org,Oficial/Fato,7308,1530
+Studies explore the potential benefits of red raspberries,https://web.archive.org,Oficial/Fato,2367,1861
+New recommendations for managing menopausal symptoms in breast cancer survivors,https://web.archive.org,Oficial/Fato,1033,1940
+New meta-analysis finds a plant-based vegetarian diet is associated with lower cholesterol,https://web.archive.org,Oficial/Fato,2957,1100
+Clinical study shows that retinal imaging may detect signs of Alzheimer's disease,https://web.archive.org,Oficial/Fato,6335,1531
+CHEO researchers identify practices leading to safer outcomes in procedural sedation for children,https://web.archive.org,Oficial/Fato,2936,1647
+Specialists make breakthrough in the treatment of anal cancer,https://web.archive.org,Oficial/Fato,7914,1040
+New blood test may transform the way cancer is monitored and treated,https://web.archive.org,Oficial/Fato,6107,787
+"Cardiac stem cells from young hearts could rejuvenate old hearts, new study shows",https://web.archive.org,Oficial/Fato,2569,1068
+Pregnancy Double Discovery,https://www.victorchang.edu.au,Oficial/Fato,5587,461
+New study shows supplementation of capsicum extract helps increase metabolic rate,https://web.archive.org,Oficial/Fato,3424,162
+Breakthrough device heals organs with a single touch,https://web.archive.org,Oficial/Fato,8382,1579
+Resistance training may slow down the progression of multiple sclerosis,https://web.archive.org,Oficial/Fato,3126,587
+"A new HER2 mutation, a clinical trial and a promising diagnostic tool for metastatic breast cancer",https://web.archive.org,Oficial/Fato,5378,428
+"Oregano, Thyme May Hold the Cure for Wasting Syndrome Disease",https://www.newswise.com,Oficial/Fato,5482,1690
+Scientists discover biomarkers which could lead to better treatments for CF patients,https://web.archive.org,Oficial/Fato,6925,1772
+Nanoparticles loaded with component of common spice kill cancer cells,https://web.archive.org,Oficial/Fato,5481,214
+World-first ketamine trial shows promise for geriatric depression,https://web.archive.org,Oficial/Fato,1547,1005
+"Concurrent chemotherapy, proton therapy improves survival in patients with advanced lung cancer",https://web.archive.org,Oficial/Fato,2355,1263
+Laser Treatment Reduces Eye Floaters,https://media.jamanetwork.com,Oficial/Fato,6172,852
+"Earlier blood testing for iron deficiency, anemia recommended for young women",https://web.archive.org,Oficial/Fato,6954,231
+Radiation prior to surgery reduces risk of secondary tumors in early-stage breast cancer,https://web.archive.org,Oficial/Fato,4006,635
+Football boosts bone development in boys,https://web.archive.org,Oficial/Fato,6336,183
+"ADHD medication tied to lower risk for alcohol, drug abuse in teens and adults",https://web.archive.org,Oficial/Fato,2066,748
+Fasting blood sugar and fasting insulin identified as new biomarkers for weight loss,https://web.archive.org,Oficial/Fato,7333,1447
+Anti-gravity treadmills get patients running again after knee surgery,https://web.archive.org,Oficial/Fato,5107,862
+Colored glasses may provide light sensitivity relief post-concussion,https://web.archive.org,Oficial/Fato,7910,1739
+"Certain OTC, less expensive hearing aids provide benefit similar to conventional hearing aid",https://web.archive.org,Oficial/Fato,4820,775
+Radiosurgery reduces depression and improves quality of life for patients with facial pain,https://web.archive.org,Oficial/Fato,2293,1026
+"With health care cuts looming, low-cost magnesium a welcome option for treating depression",https://web.archive.org,Oficial/Fato,1514,933
+Mount Sinai researcher identifies best practices for cochlear implant hearing preservation,https://www.eurekalert.org,Oficial/Fato,5988,252
+Eating more vegetable protein may protect against early menopause,https://web.archive.org,Oficial/Fato,7711,600
+Superior Protection by Flublok® Influenza Vaccine in Seniors Documented in New England Journal of Medicine,http://www.prnewswire.com,Oficial/Fato,4897,1127
+First-in-Canada Implant of Novel Sensor Device for Heart Failure Patients,http://www.newswise.com,Oficial/Fato,3917,1698
+"How six cups of ground coffee can improve nose, throat surgery",https://web.archive.org,Oficial/Fato,4101,722
+New study from KKI shows feasibility of acupuncture in young children with ASD,https://web.archive.org,Oficial/Fato,7656,518
+New Data From the Elekta Lung Research Group Support the use of Stereotactic Body Radiation Therapy in Elderly Patients With Early-stage Lung Cancer,http://www.prnewswire.com,Oficial/Fato,7161,313
+Online cognitive behavioral therapy for insomnia is effective for military,https://web.archive.org,Oficial/Fato,6510,1790
+Uterine fibroid embolization helps restore fertility,https://web.archive.org,Oficial/Fato,7310,1566
+"Vegetarian diets almost twice as effective in reducing body weight, study finds",https://web.archive.org,Oficial/Fato,1794,806
+Prebiotics reduce body fat in overweight children,https://web.archive.org,Oficial/Fato,650,236
+Bitter taste receptors may hold the key to managing preterm labor,https://web.archive.org,Oficial/Fato,3644,1510
+Starving prostate cancer with what you eat for dinner,https://web.archive.org,Oficial/Fato,3726,833
+Treating depression w/ software: Tech from Mount Sinai steps into the digital healthcare universe,https://web.archive.org,Oficial/Fato,6348,897
+New tech promises easier cervical cancer screening,https://web.archive.org,Oficial/Fato,1090,456
+Drug for refractory psoriatic arthritis shows promise in clinical trial,http://med.stanford.edu,Oficial/Fato,1161,1923
+New Antibiotic Packs a Punch Against Bacterial Resistance,http://www.newswise.com,Oficial/Fato,1067,1030
+Cannabis Derivative Cannabidiol Reduces Seizures in Severe Epilepsy Disorder,http://www.prnewswire.com,Oficial/Fato,3874,1213
+Strategic brain training positively affects neural connectivity for individuals with TBI,https://web.archive.org,Oficial/Fato,2723,155
+Stem cells may significantly improve tendon healing by regulating inflammation,https://web.archive.org,Oficial/Fato,7052,1399
+New cancer drug can prevent reactions to common airborne allergens,https://web.archive.org,Oficial/Fato,7546,1273
+Study confirms benefits of fennel in reducing postmenopause symptoms,https://web.archive.org,Oficial/Fato,7193,1468
+Children and adolescents who eat pasta have better overall diet quality new research shows,https://web.archive.org,Oficial/Fato,5023,776
+Study: New blood test is more accurate in predicting prostate cancer risk than PSA,https://web.archive.org,Oficial/Fato,3799,1166
+New Peer-Reviewed Clinical Study Successfully Validates The Use Of Proove Opioid Risk® To Predict Prescription Opioid Abuse,http://www.prnewswire.com,Oficial/Fato,3009,1319
+Breakthrough Study Stops Fat-Eating Prostate Cancer Cells,http://www.newswise.com,Oficial/Fato,820,397
+"Stroke, MS patients walk significantly better with neural stimulation",https://web.archive.org,Oficial/Fato,4944,1661
+"Non-surgical weight-loss treatment found safe, effective for those with limited options",https://web.archive.org,Oficial/Fato,3221,254
+First large-scale population analysis reinforces ketamine's reputation as antidepressant,https://web.archive.org,Oficial/Fato,7023,1023
+Common cold duration is shortened similarly by zinc acetate and zinc gluconate lozenges,https://web.archive.org,Oficial/Fato,4104,659
+FDA approves new combination treatment for acute myeloid leukemia,https://www.fda.gov,Oficial/Fato,8116,144
+City of Hope researchers find regular use of aspirin can lower risk of breast cancer for women,https://web.archive.org,Oficial/Fato,6088,812
+New eye test detects earliest signs of glaucoma,https://web.archive.org,Oficial/Fato,6638,1441
+"Allergan Granted Marketing Authorization by the FDA for TrueTear™, the First Intranasal Neurostimulating Device Proven to Temporarily Increase Tear Pr...",http://www.prnewswire.com,Oficial/Fato,2933,1141
+Patients with drug-resistant malaria cured by plant therapy developed at WPI,https://web.archive.org,Oficial/Fato,5702,1351
+Noninvasive Imaging Test Shown Accurate in Ruling Out Kidney Cancers,http://www.newswise.com,Oficial/Fato,5950,1723
+Investigational dose of oral interferon-free treatment can cure hepatitis C in children,https://web.archive.org,Oficial/Fato,6843,237
+150-year-old Drug May Provide ‘Off’ Time Relief for People with Advanced Parkinson’s Disease,https://www.aan.com,Oficial/Fato,3032,876
+A potential cure for metastatic prostate cancer? Treatment combination shows early promise,https://web.archive.org,Oficial/Fato,6800,619
+Teaching happiness to men with HIV boosts their health,https://web.archive.org,Oficial/Fato,8098,1001
+Dry needling offers alternative to cortisone injection for hip pain,https://web.archive.org,Oficial/Fato,6652,1454
+Technique improves breast reduction outcomes,https://web.archive.org,Oficial/Fato,6030,943
+Laser-Based Dermatological Procedures Could Be Revolutionized with New Technique,http://www.newswise.com,Oficial/Fato,5922,1920
+Pet exposure may reduce allergy and obesity,https://web.archive.org,Oficial/Fato,5762,1325
+Allergan Reports Topline Phase II Data Supporting Advancement of BOTOX® (onabotulinumtoxinA) for the Treatment of Major Depressive Disorder (MDD),https://web.archive.org,Oficial/Fato,787,319
+Common antibiotic may help to prevent or treat PTSD,https://web.archive.org,Oficial/Fato,2400,1054
+Magnetic brain stimulation causes weight loss by making gut bacteria healthier,https://web.archive.org,Oficial/Fato,3613,854
+Study shows real-world massage is effective treatment for low back pain,https://web.archive.org,Oficial/Fato,6433,1440
+FDA approves new eczema drug Dupixent,https://www.fda.gov,Oficial/Fato,6608,1027
+Statins May Provide Treatment Alternative for Chronic Liver Disease,http://www.newswise.com,Oficial/Fato,7072,400
+Researchers warn of hazards of smoking and need for wider use of varenicline to quit,https://web.archive.org,Oficial/Fato,3096,1203
+Immunotherapy Drug Becomes First Therapy Approved by FDA for Rare Skin Cancer,http://www.newswise.com,Oficial/Fato,683,1933
+Active Surveillance Preserves Quality of Life for Prostate Cancer Patients,http://www.newswise.com,Oficial/Fato,538,515
+SBRT Offers Curative Option for Lung Cancer Patients Age 80 and Older,http://www.newswise.com,Oficial/Fato,2878,866
+Palliative Care Consults for Patients with Advanced Cancers Reduces Hospitalization and Improves Quality of Care,http://www.newswise.com,Oficial/Fato,5324,1271
+Pembrolizumab shows promise in treatment of mesothelioma,https://web.archive.org,Oficial/Fato,1619,999
+"More IV fluids, fewer c-sections",https://web.archive.org,Oficial/Fato,3935,650
+Topical curcumin gel effective in treating burns and scalds,https://web.archive.org,Oficial/Fato,6180,433
+Free lung-cancer screening in the Augusta area finds more than double the cancer rate of previous screenings,https://web.archive.org,Oficial/Fato,7485,1772
+New blood test may predict cardiovascular events in patients with or without coronary artery disease,http://newsnetwork.mayoclinic.org,Oficial/Fato,1478,259
+"Erectile dysfunction drugs are safe, possibly beneficial after heart attack",https://web.archive.org,Oficial/Fato,2242,1251
+FDA approves first treatment for frequent urination at night due to overproduction of urine,https://www.fda.gov,Oficial/Fato,5118,1203
+Blueberry concentrate improves brain function in older people,https://web.archive.org,Oficial/Fato,6903,1627
+Soy food consumption linked to prolonged survival in some breast cancer patients,https://web.archive.org,Oficial/Fato,6599,551
+Exact Sciences and Mayo Clinic study shows promise of new blood-based lung cancer test,http://www.prnewswire.com,Oficial/Fato,5572,1559
+Nonsurgical treatment can correct congenital ear malformations in infants,https://web.archive.org,Oficial/Fato,5767,1828
+Receiving a clot-buster drug before reaching the hospital may reduce stroke disability,https://web.archive.org,Oficial/Fato,694,1615
+"Study Finds Single, Escalated Dose of Brachytherapy Radiation May Be a Safe and Effective Treatment for Localized Prostate Cancer",http://www.newswise.com,Oficial/Fato,4982,1256
+"Study Reveals Ways to Improve Outcomes, Reduce Costs for Common Heart Procedure",http://www.newswise.com,Oficial/Fato,4779,487
+Screening MRI benefits women at average risk of breast cancer,https://web.archive.org,Oficial/Fato,4019,1897
+Postmenopausal hormone therapy exceeding ten years may protect from dementia,https://web.archive.org,Oficial/Fato,724,801
+Scientifically-designed fasting diet lowers risks for major diseases,https://web.archive.org,Oficial/Fato,7614,589
+High rates of satisfaction for applicator free local estrogen softgel ovule,https://web.archive.org,Oficial/Fato,5820,932
+FDA approves new psoriasis drug,http://www.fda.gov,Oficial/Fato,1318,1525
+Testosterone therapy provides protection against cardiovascular disease in men with low testosterone,https://web.archive.org,Oficial/Fato,711,1910
+New method reduces adverse effects of rectal cancer treatment,https://web.archive.org,Oficial/Fato,7416,979
+The best treatment for laryngeal cancer? This approach helps decide,https://web.archive.org,Oficial/Fato,1752,897
+Encouraging clinical results for an antibody drug to prevent or treat HIV,https://web.archive.org,Oficial/Fato,4968,1678
+Laparoscopic anti-reflux operation for GERD linked to fewer postoperative complications,https://web.archive.org,Oficial/Fato,3682,1114
+Amgen Announces Repatha® (Evolocumab) Significantly Reduced The Risk Of Cardiovascular Events In FOURIER Outcomes Study,http://www.prnewswire.com,Oficial/Fato,3147,1893
+Stem cell transplants may induce long-term remission of multiple sclerosis,https://www.nih.gov,Oficial/Fato,6630,1401
+Breath test could help detect stomach and oesophageal cancers,https://web.archive.org,Oficial/Fato,7276,1490
+Anti-inflammatory diet could reduce risk of bone loss in women,https://web.archive.org,Oficial/Fato,5547,445
+FDA approves Trulance for Chronic Idiopathic Constipation,http://www.fda.gov,Oficial/Fato,4969,592
+New MRI method aids long-term concussion prognosis,https://web.archive.org,Oficial/Fato,950,1320
+Mount Sinai researchers involved in successful phase 3 trial of drug for liver cancer,https://web.archive.org,Oficial/Fato,7364,501
+Breast cancer prognosis of African-American patients may improve with chemotherapy before surgery,https://web.archive.org,Oficial/Fato,3298,1070
+Lap Band Surgery Benefits Very Obese Adolescents,http://www.newswise.com,Oficial/Fato,1523,1198
+Personalized treatment for those in blood pressure 'gray zone',https://web.archive.org,Oficial/Fato,5265,1883
+Progesterone may be key to preventing recurrent miscarriage,https://web.archive.org,Oficial/Fato,7650,1606
+Tucatinib (ONT-380) progressing in pivotal trial against HER2+ breast cancer,https://web.archive.org,Oficial/Fato,3599,1248
+Tablet devices show promise in managing agitation among patients with dementia,https://web.archive.org,Oficial/Fato,5024,1890
+"Natural tooth repair method, using Alzheimer's drug, could revolutionize dental treatments",https://web.archive.org,Oficial/Fato,2293,560
+Sun Pharma Announces Positive Topline Results of Confirmatory Phase-3 Clinical Trial for Seciera™ for Treatment of Dry Eye,http://www.prnewswire.com,Oficial/Fato,1473,1978
+Zinc eaten at levels found in biofortified crops reduces 'wear and tear' on DNA,https://web.archive.org,Oficial/Fato,7962,1272
+Vaccine shows promising results for early-stage breast cancer patients,https://web.archive.org,Oficial/Fato,8344,1595
+New study finds EPA and DHA omega-3s lower risk of coronary heart disease,https://web.archive.org,Oficial/Fato,5608,183
+New apps designed to reduce depression and anxiety as easily as checking your phone,https://web.archive.org,Oficial/Fato,6995,1170
+Fenofibrate may reduce heart disease risk in some patients with type 2 diabetes,https://web.archive.org,Oficial/Fato,2682,661
+Researchers develop automated melanoma detector for skin cancer screening,https://web.archive.org,Oficial/Fato,1608,599
+Reducing Radiation Successfully Treats HPV-Positive Oropharynx Cancers and Minimizes Side Effects,http://www.newswise.com,Oficial/Fato,2707,188
+The Lancet: Final trial results confirm Ebola vaccine provides high protection against disease,https://web.archive.org,Oficial/Fato,1355,125
+‘Miracle Patient’ Finds New Hope with Breast Cancer Vaccine,http://www.newswise.com,Oficial/Fato,5792,500
+Light therapy effectively treats early prostate cancer,https://web.archive.org,Oficial/Fato,2719,715
+A potential pharmaceutical intervention for co-occurring PTSD and substance use disorder,https://web.archive.org,Oficial/Fato,7000,915
+Anesthetic cream best for relieving vaccination pain in infants,https://web.archive.org,Oficial/Fato,8481,1420
+Drug for narcolepsy could help food addicts lose weight,https://web.archive.org,Oficial/Fato,2455,748
+Study: Running actually lowers inflammation in knee joints,https://web.archive.org,Oficial/Fato,2196,695
+Healthy Diet May Help Kidney Disease Patients Live Longer,http://www.newswise.com,Oficial/Fato,3064,1153
+Immunotherapy shows promise in preventing leukemia relapse,https://web.archive.org,Oficial/Fato,3179,256
+Mayo Clinic finds surprising results on first-ever test of stem cell therapy to treat arthritis,http://newsnetwork.mayoclinic.org,Oficial/Fato,1213,1449
+Dabigatran superior to warfarin when anticoagulation is resumed after bleeding,https://web.archive.org,Oficial/Fato,2688,1154
+Saturated fat could be good for you,https://web.archive.org,Oficial/Fato,1194,1114
+Single Dose of Hallucinogenic Drug Psilocybin Relieves Anxiety and Depression in Patients with Advanced Cancer,http://www.newswise.com,Oficial/Fato,4759,1046
+Hallucinogenic Drug Psilocybin Eases Existential Anxiety in People with Life-Threatening Cancer,http://www.newswise.com,Oficial/Fato,3577,497
+Use of Frailty Screening Initiative before Surgery Associated with Reduced Risk of Death,http://media.jamanetwork.com,Oficial/Fato,7312,243
+Electro-acupuncture for disrupted sleep in women with breast cancer,https://web.archive.org,Oficial/Fato,2656,575
+"In Highly Lethal Type of Leukemia, Cancer Gene Predicts Treatment Response",https://web.archive.org,Oficial/Fato,6864,143
+FDA approves Intrarosa for postmenopausal women experiencing pain during sex,http://www.fda.gov,Oficial/Fato,1589,1057
+Development of a wearable medical device for type 2 diabetes,https://web.archive.org,Oficial/Fato,6509,1671
+"Vitamin D reduces respiratory infections, says CU Anschutz study",https://web.archive.org,Oficial/Fato,5411,661
+Probiotics improve cognition in Alzheimer's patients,https://web.archive.org,Oficial/Fato,1167,541
+Clinical Study Verifies HSRx OTC Drug Product For Joint Pain Delivers Faster And More Effective Treatment Results Than A Current Market Leading Produc...,http://www.prnewswire.com,Oficial/Fato,1671,829
+Western and Lawson scientists develop game-changing blood test for concussions,https://web.archive.org,Oficial/Fato,3850,1527
+"Using a patient's own words, machine learning automatically identifies suicidal behavior",https://web.archive.org,Oficial/Fato,7061,1918
+Study puts Weight Watchers to the test for type 2 diabetes,https://web.archive.org,Oficial/Fato,2903,1134
+"New Study Shows Balloon in a Capsule Helps Patients Lose Nearly Twice as Much Weight Than Diet, Exercise and Lifestyle Therapy Alone",http://www.newswise.com,Oficial/Fato,4580,1771
+Prostate drug offers new relief for kidney stone suffers,https://web.archive.org,Oficial/Fato,3527,1393
+Male birth control shots prevent pregnancy,https://web.archive.org,Oficial/Fato,7453,1474
+Two New Studies Document Improvement in Breast Cancer Treatment with Use of BioZorb Implant,http://www.prnewswire.com,Oficial/Fato,4858,297
+"Easing Labor Pain May Help Reduce Postpartum Depression in Some Women, Early Research Suggests",http://www.newswise.com,Oficial/Fato,2972,1356
+Cleveland Clinic study finds whole grain diet reduces cardiovascular disease risk,https://web.archive.org,Oficial/Fato,1067,539
+Phase 3 analyses in Alzheimer's show clinical benefit of tramiprosate in APOE4 carriers,https://web.archive.org,Oficial/Fato,5402,1062
+Toothpaste significantly reduces dental plaque and inflammation throughout the body,https://web.archive.org,Oficial/Fato,2345,261
+Cocoa compound linked to some cardiovascular biomarker improvements,https://web.archive.org,Oficial/Fato,5483,1513
+"Anti-inflammatory drugs could help treat symptoms of depression, study suggests",https://web.archive.org,Oficial/Fato,6852,1815
+Novel 'patient-friendly' colonoscopy prep shows excellent efficacy and safety,https://web.archive.org,Oficial/Fato,1757,1143
+"Even partial steroid treatment can benefit extremely preterm infants, NIH study suggests",https://www.nih.gov,Oficial/Fato,2772,131
+Modified cast instead of surgery results in similar functional outcomes for ankle fracture in older adults,https://web.archive.org,Oficial/Fato,3423,1166
+First human clinical trial for nicotinamide riboside,https://web.archive.org,Oficial/Fato,4560,1532
+'Game-changing' immunotherapy doubles head and neck cancer survival,https://web.archive.org,Oficial/Fato,3956,634
+Concussion can now be diagnosed with 95 percent specificity,https://web.archive.org,Oficial/Fato,5457,1814
+"For women, caffeine could be ally in warding off dementia",https://web.archive.org,Oficial/Fato,5697,1617
+"Self-Adhesive Dressing Generates Electrical Current That Promotes Healing, Reduces Infection Risk",http://www.newswise.com,Oficial/Fato,6419,1228
+"Acupuncture Reduces Hot Flashes for Half of Women, Study Finds",http://www.newswise.com,Oficial/Fato,1912,417
+Continuing Developments In Medical Consensus On The Utility Of Peppermint Oil For Irritable Bowel Syndrome (IBS),https://web.archive.org,Oficial/Fato,7567,1405
+FDA approves expanded indications for Ilaris for three rare diseases,http://www.fda.gov,Oficial/Fato,1074,1647
+SBRT Offers Prostate Cancer Patients High Cancer Control and Low Toxicity in Fewer Treatments,https://web.archive.org,Oficial/Fato,7431,1803
+UNC Hearing Loss Experts Lead Clinical Trials of FDA-Approved Hearing Implant,http://www.newswise.com,Oficial/Fato,1541,1751
+Discovery offers prospect of shorter treatment and cure for chronic myelogenous leukemia,https://web.archive.org,Oficial/Fato,1229,1952
+"KVK Tech Announces FDA-Approval of Lomaira™ (phentermine hydrochloride USP) 8 mg tablets, CIV, A Low-Cost, Low-Dose Phentermine That Can Be Used Up To...",http://www.prnewswire.com,Oficial/Fato,1897,1793
+FDA Approves Bayer's Kyleena™ (Levonorgestrel-Releasing Intrauterine System) 19.5 mg for Prevention of Pregnancy for up to Five Years,http://www.prnewswire.com,Oficial/Fato,762,1589
+FDA Clears P-Cure Upright Imaging Solution for Proton Therapy Enhancement,http://www.prweb.com,Oficial/Fato,3301,796
+GSK's candidate shingles vaccine shows high efficacy against shingles and its complications in adults aged 70 years and over in phase III study publis...,http://www.prnewswire.com,Oficial/Fato,1594,405
+Measuring new hormone may reduce teenagers wrongly diagnosed with PCOS,https://web.archive.org,Oficial/Fato,3368,1458
+"Humira Provides Effective, Non-Steroid Alternative for Eye Inflammation",http://www.newswise.com,Oficial/Fato,8462,1635
+Asthma gene's effect on respiratory symptoms in infancy depends on breastfeeding status,https://web.archive.org,Oficial/Fato,7551,483
+"New HIF-2 kidney cancer therapy more effective than current treatment, study shows",https://web.archive.org,Oficial/Fato,3460,434
+"Implanted device successfully treats central sleep apnea, study finds",https://web.archive.org,Oficial/Fato,1051,652
+Novel Test Distinguishes Atypical Moles From Melanoma,https://www.newswire.com,Oficial/Fato,1019,1406
+Osteopathic manipulative treatment improves outcomes for elderly pneumonia patients,https://web.archive.org,Oficial/Fato,5636,334
+Experts say inexpensive drug could slow heart disease for type 1 diabetic patients,https://web.archive.org,Oficial/Fato,717,1565
+Acetaminophen does not aggravate children's asthma,https://web.archive.org,Oficial/Fato,7084,1281
+"Study shows acetaminophen can be tolerated by children with mild, persistent asthma",https://web.archive.org,Oficial/Fato,3732,725
+"Scalpel-Free Surgery Proves Safe, Effective for Treating Essential Tremor",http://www.newswise.com,Oficial/Fato,4429,1156
+Vaping may lead to fewer respiratory infections for ex-smokers,https://web.archive.org,Oficial/Fato,2826,533
+Study paves way for steroid treatments with fewer side effects,https://web.archive.org,Oficial/Fato,5376,1506
+Two New Drugs Show Promise for Patients with Aggressive Breast Cancer – PR News,http://www.uphs.upenn.edu,Oficial/Fato,4648,1959
+Flu nasal spray provides similar protection against influenza as flu shot: Study,https://web.archive.org,Oficial/Fato,4534,688
+Injected Drug Reduces Risk of Fracture among Women with Osteoporosis,http://media.jamanetwork.com,Oficial/Fato,6510,814
+Want a Better Memory? Try Eating a Mediterranean Diet,http://www.newswise.com,Oficial/Fato,4987,347
+Treating at the Earliest Sign of MS May Offer Long-Term Benefit,https://www.aan.com,Oficial/Fato,3770,325
+Asthma pill could reduce symptoms in severe sufferers,https://web.archive.org,Oficial/Fato,959,1326
+Researchers propose new treatment to prevent kidney stones,https://web.archive.org,Oficial/Fato,5344,577
+Maintaining a healthy heart through bile acids,https://web.archive.org,Oficial/Fato,3255,1097
+New Biochip-Based Blood Test Detects Elevated Risk for Alzheimer's Disease,http://www.prnewswire.com,Oficial/Fato,5060,577
+Treating pain without feeding addiction: Study shows promise of non-drug pain management,https://web.archive.org,Oficial/Fato,5711,679
+Increasing the Odds of Prostate Cancer Detection,http://www.newswise.com,Oficial/Fato,2739,1487
+Life Extension-supported study published in Lancet Neurology finds green tea extract improves cognition in Down Syndrome,http://www.prnewswire.com,Oficial/Fato,774,166
+"International Study Finds Effective, Less Toxic Way to Treat Brain Tumors",http://www.newswise.com,Oficial/Fato,3588,1466
+UAB Optometrist Improves Treatment and Care for Patients with Dry Eye,http://www.newswise.com,Oficial/Fato,6213,1472
+Researchers produce first widely protective vaccine against chlamydia,https://web.archive.org,Oficial/Fato,8410,184
+"Nasal irrigation may prevent chronic sinus ailments; however, steam inhalation not effective",https://web.archive.org,Oficial/Fato,7885,1256
+Estrogen Patch in Newly Postmenopausal Women May Reduce Alzheimer’s Risk,http://newsnetwork.mayoclinic.org,Oficial/Fato,7641,1334
+HPV Vaccine Can Protect Women Across a Broad Age Range,http://www.newswise.com,Oficial/Fato,1421,923
+Immunotherapy reduces cardiovascular risk in rheumatoid arthritis,https://web.archive.org,Oficial/Fato,4571,1537
+"Treating First Time Shoulder Dislocations with Surgery Can Benefit Young Athletes, Study Shows",http://www.newswise.com,Oficial/Fato,1497,275
+Cetuximab and Radiotherapy in Laryngeal Preservation for Cancers of the Larynx and Hypopharynx: A Secondary Analysis of a Randomized Clinical Trial,http://archotol.jamanetwork.com,Oficial/Fato,7509,899
+Cravings for High-Calorie Foods May Be Switched Off in the Brain by New Supplement,http://www.newswise.com,Oficial/Fato,6293,883
+FDA approves Epclusa for treatment of chronic Hepatitis C virus infection,http://www.fda.gov,Oficial/Fato,7704,1600
+Foot wrap offers alternative to medication for patients with restless legs syndrome,https://web.archive.org,Oficial/Fato,1669,252
+"Healthy aging benefits may be associated with walnut consumption, according to research",https://web.archive.org,Oficial/Fato,6903,184
+Simple measures can reduce post-operative cognitive dysfunction in older patients,https://web.archive.org,Oficial/Fato,2524,867
+Antiviral Treatment During Pregnancy Reduces Mother-to-Child Transmission of Hepatitis B,http://nyulangone.org,Oficial/Fato,2781,1353
+"Timely use of Novartis' Entresto could prevent or postpone over 28,000 US deaths per year among HFrEF patients, according to an expert analysis in JAM...",http://www.prnewswire.com,Oficial/Fato,6304,1593
+Device for irregular heartbeat may be more cost-effective than medication,https://web.archive.org,Oficial/Fato,5200,542
+Pre and Post Testing Show Reversal of Memory Loss From Alzheimer’s Disease in Ten Patients,http://www.newswise.com,Oficial/Fato,6974,778
+'Holy grail' of breast cancer prevention in high-risk women may be in sight,https://web.archive.org,Oficial/Fato,7847,1241
+MS breakthrough: Replacing diseased immune system halts progression and allows repair,https://web.archive.org,Oficial/Fato,1226,1435
+How to diagnose systemic infections much more quickly and reliably,https://web.archive.org,Oficial/Fato,5183,1679
+"Barley lowers not one but two types of 'bad cholesterol', review suggests",https://web.archive.org,Oficial/Fato,3606,1930
+New drug clears psoriasis in clinical trials,https://web.archive.org,Oficial/Fato,1932,434
+"Mesothelioma Surgery Improves Quality of Life, Study Finds",http://www.newswise.com,Oficial/Fato,6213,1962
+Lung Cancer Breath ‘Signature’ Presents Promise for Earlier Diagnosis,http://www.newswise.com,Oficial/Fato,4279,1028
+Topical skin creams effective to treat superficial basal cell carcinoma: New study,https://web.archive.org,Oficial/Fato,1036,1510
+International trial changing standard of care for advanced breast cancer,https://web.archive.org,Oficial/Fato,8371,809
+Nivolumab immunotherapy helps patients with advanced bladder cancer,https://web.archive.org,Oficial/Fato,4402,1642
+Fighting Advanced Thyroid Cancer with Immunotherapy,http://www.newswise.com,Oficial/Fato,1873,1084
+Prevention of Genetic Breast Cancer Within Reach,http://www.newswise.com,Oficial/Fato,6734,1848
+CD34+ cell treatment reduced angina frequency for 'no option' patients,https://web.archive.org,Oficial/Fato,1204,1773
+Medimetriks announces the results of a successful Phase 2 trial of MM36 in Atopic Dermatitis; Study results and design published in the Journal of the...,http://www.prnewswire.com,Oficial/Fato,4587,458
+NIH study confirms benefits of intensive blood pressure management among seniors aged 75 and older,https://web.archive.org,Oficial/Fato,5178,1615
+Melatonin reduces blood pressure and tunes up disrupted circadian rhythms in the elderly,https://web.archive.org,Oficial/Fato,957,756
+Investigational CDK4/6 inhibitor abemaciclib is active against a range of cancer types,https://web.archive.org,Oficial/Fato,6737,1282
+"FDA approves new, targeted treatment for bladder cancer",http://www.prnewswire.com,Oficial/Fato,2692,508
+Oramed Announces Positive Top-Line Results from Phase IIb Oral Insulin Study,http://www.prnewswire.com,Oficial/Fato,775,1801
+New easy-to-use TB test achieves accuracy comparable to IGRAs in Phase III trials,http://www.eurekalert.org,Oficial/Fato,798,934
+Stave off cognitive decline with seafood,https://web.archive.org,Oficial/Fato,3163,1279
+Studies Show Oral Testosterone Safe and Efficacious in Long-term Management of Hypogonadism,http://www.prnewswire.com,Oficial/Fato,7780,146
+Braeburn Pharmaceuticals and Camurus announce positive top line results from Phase 2 opioid challenge study with CAM2038 in subjects with opioid use d...,http://www.prnewswire.com,Oficial/Fato,1427,1604
+Blood thinners on 'as needed' basis is safe and effective for lowering stroke risk as compared to long-term use,https://web.archive.org,Oficial/Fato,2177,760
+Glaucoma Drug-Dispensing Eye Insert Shows Promise as New Option for Patients Struggling to Take Daily Prescription Eye Drops,http://www.prnewswire.com,Oficial/Fato,4935,1615
+Surgery for chronic temporal headaches -- simplified approach shows good results,https://web.archive.org,Oficial/Fato,7315,874
+FDA approves first drug to treat hallucinations and delusions associated with Parkinson’s disease,http://www.fda.gov,Oficial/Fato,7241,1068
+CVS Health Research Institute Study Shows that Home Infusion Care Improves Patient Outcomes and Quality of Life While Reducing Overall Costs,http://www.prnewswire.com,Oficial/Fato,3389,194
+Less body fat for toddlers taking vitamin D,https://web.archive.org,Oficial/Fato,5339,617
+Study Results Published in JAMA Conclude that 3D MAMMOGRAPHY™ Exams Outperform Conventional Mammography for Women with Both Dense and Nondense Breasts,http://www.prnewswire.com,Oficial/Fato,2546,1747
+Relapses of childhood leukemia improve with high doses of common chemo drug,https://web.archive.org,Oficial/Fato,1344,1956
+One antidepressant shown to control weight during 2-year study,https://web.archive.org,Oficial/Fato,4826,1705
+Websites aren't telling full story on tobacco product risks,https://www.buffalo.edu,Oficial/Fato,4021,331
+Taking aspirin could increase cancer survival by 20 percent,https://web.archive.org,Oficial/Fato,5010,1340
+First-ever nivolumab study to treat aggressive anal cancer appears promising,https://web.archive.org,Oficial/Fato,2478,203
+UT Southwestern research shows 98 percent cure rate for prostate cancer using SBRT,https://web.archive.org,Oficial/Fato,4830,614
+Experimental drug guadecitabine found safe in patients with colorectal cancer,https://web.archive.org,Oficial/Fato,7903,327
+Ultrasound Headset May Be New Way to Recognize Concussion on the Sidelines,http://www.prnewswire.com,Oficial/Fato,7227,886
+Video games improve brain connections in multiple sclerosis patients,https://web.archive.org,Oficial/Fato,1882,1725
+Shire Announces Positive Results of SHP465 Safety and Efficacy Study in Children and Adolescents with ADHD,http://www.prnewswire.com,Oficial/Fato,4826,1965
+Lung ultrasound may be a safe substitute for chest X-ray when diagnosing pneumonia in children,https://web.archive.org,Oficial/Fato,1612,661
+Heart bypass surgery brings long-term benefits,http://www.nih.gov,Oficial/Fato,4031,1852
+Promising new blood test is first of its kind to detect liver scarring,https://web.archive.org,Oficial/Fato,2831,1160
+"Choir singing boosts immune system activity in cancer patients and carers, study shows",https://web.archive.org,Oficial/Fato,2687,728
+Abaloparatide may help prevent fractures in postmenopausal women with osteoporosis,https://web.archive.org,Oficial/Fato,5170,382
+More than 1000 Lives Reported Saved with Help of EVZIO® (naloxone HCl injection) Auto-injectors,http://www.prnewswire.com,Oficial/Fato,5794,789
+High-risk lung cancer patients may not need annual screenings,https://web.archive.org,Oficial/Fato,7374,1344
+Study: Simple blood test can detect evidence of concussions up to a week after injury,https://web.archive.org,Oficial/Fato,6972,1212
+Can an iPad Help You See?,http://www.newswise.com,Oficial/Fato,5287,1136
+Eating Foods High in Vitamin C Cuts Risk of Cataract Progression by a Third,http://www.newswise.com,Oficial/Fato,3234,313
+Impact of first federally funded anti-smoking ad campaign remains strong after three years,http://www.cdc.gov,Oficial/Fato,6870,1767
+Mammograms: Another way to screen for heart disease?,https://web.archive.org,Oficial/Fato,3558,138
+Reverse your diabetes -- and you can stay diabetes-free long-term,https://web.archive.org,Oficial/Fato,6333,1537
+Children in intensive care recover faster with little to no nutrition,https://web.archive.org,Oficial/Fato,7997,1687
+"New Study Shows Ketamine May Regenerate Brain Cells, Relieving Depression with Lasting Benefit",http://www.prnewswire.com,Oficial/Fato,5278,823
+Celator Announces Phase 3 Trial for VYXEOS™ (CPX-351) in Patients with High-Risk Acute Myeloid Leukemia Demonstrates Statistically Significant Improve...,http://www.prnewswire.com,Oficial/Fato,4601,144
+Surgery improves survival rates for men with prostate cancer if radiation treatments fail,https://web.archive.org,Oficial/Fato,3842,186
+"Two-year, EU-funded Study Reveals a Medical Food in the Form of a Daily Nutritional Drink Can Help to Conserve Memory, the Ability to Think and Perfor...",http://www.prnewswire.com,Oficial/Fato,3313,1176
+Drug combination slows breast cancer spread,https://web.archive.org,Oficial/Fato,8424,898
+"Peanuts, peanut butter may hold key to preventing obesity",https://web.archive.org,Oficial/Fato,865,1194
+Chrono Therapeutics' Smoking Cessation Technology Demonstrates Significant Reduction in Nicotine Cravings,http://www.prnewswire.com,Oficial/Fato,1628,175
+"New Breast Reconstruction Technique Provides Better Outcomes, Less Discomfort for Women Recovering From Breast Cancer",http://www.newswise.com,Oficial/Fato,2031,1312
+Barrow neurosurgeon helps pave way for deep brain stimulation and Alzheimer's,https://web.archive.org,Oficial/Fato,1244,1977
+PCSK9-Inhibitor Drug Class That Grew Out of UT Southwestern Research Becomes a Game-Changer for Patient with Extremely High Cholesterol,http://www.newswise.com,Oficial/Fato,4406,104
+Eylea outperforms Avastin for diabetic macular edema with moderate or worse vision loss,http://www.nih.gov,Oficial/Fato,8008,345
+"Lipogen Targets PMS/PMDD Relief, Naturally",http://www.prnewswire.com,Oficial/Fato,7969,1801
+Study shows children's best hope for the potassium and fiber missing in their diets is potatoes,https://web.archive.org,Oficial/Fato,2695,1052
+Omega-3 Fatty Acids May Lower Breast Cancer Risk in Postmenopausal Obese Women,http://www.newswise.com,Oficial/Fato,7709,1268
+Penn research: An FDA-approved Alzheimer's drug could help smokers quit,https://web.archive.org,Oficial/Fato,2662,321
+New drug reverses the effects of blood thinner in patients with brain hemorrhage,https://web.archive.org,Oficial/Fato,4441,1876
+Study suggests sildenafil may relieve severe form of edema in swimmers,https://web.archive.org,Oficial/Fato,6580,1301
+New milestone for device that can 'smell' prostate cancer,https://web.archive.org,Oficial/Fato,2071,1628
+New study reveals fresh avocado-substituted diet significantly changes lipid profile,https://web.archive.org,Oficial/Fato,1145,947
+"For pregnant women with flu, the earlier the better for antiviral treatment",https://web.archive.org,Oficial/Fato,4291,1914
+Removal of complex renal tumors performed safely by robotic surgery in selected patients,https://web.archive.org,Oficial/Fato,4404,1240
+The test that reveals cancer sooner,https://web.archive.org,Oficial/Fato,6258,929
+Clip-on device offers protection against mosquitoes that transmit Zika,https://web.archive.org,Oficial/Fato,567,377
+"To Prevent Infection After C-Section, Chlorhexidine Better Than Iodine",http://www.newswise.com,Oficial/Fato,1659,200
+The benefits of chocolate during pregnancy,https://web.archive.org,Oficial/Fato,6312,1355
+Proton therapy controls common pediatric brain tumor with fewer long-term side effects,https://web.archive.org,Oficial/Fato,2141,1571
+Higher dietary fiber intake in young women may reduce breast cancer risk,https://web.archive.org,Oficial/Fato,6528,313
+Merck Receives FDA Approval of ZEPATIER™ (elbasvir and grazoprevir) for the Treatment of Chronic Hepatitis C Virus Genotype 1 or 4 Infection in Adults...,http://www.multivu.com,Oficial/Fato,3614,579
+New study shows aged garlic extract can reduce dangerous plaque buildup in arteries,https://web.archive.org,Oficial/Fato,5997,478
+Gene therapy for rare bleeding disorder achieves proof-of-concept,https://web.archive.org,Oficial/Fato,4342,894
+Up to 50 percent of women with advanced-stage ovarian cancer could be cured with 1 treatment model,https://web.archive.org,Oficial/Fato,2360,1784
+Common dementia drug found to improve Parkinson's symptoms,https://web.archive.org,Oficial/Fato,4110,915
+Researchers Develop Simple Paper Test That Quickly Diagnoses Illnesses by Changing Colour,http://www.newswise.com,Oficial/Fato,8418,966
+Clinical study finds a specialized lollipop can end a kid's earache in nine of ten cases,http://www.prnewswire.com,Oficial/Fato,6903,1349
+Exercise reduces heart disease risk in depressed patients,https://web.archive.org,Oficial/Fato,3081,2000
+New FAU study suggests benefits of regular mammography extend to the elderly,https://web.archive.org,Oficial/Fato,4637,776
+New breast cancer drug may be effective against other types of cancer,https://web.archive.org,Oficial/Fato,1512,1961
+"Concussion-Related Measures Improved in High School Football Players Who Drank New... -- COLLEGE PARK, Md., Dec. 22, 2015 /PRNewswire-USNewswire/ --",https://web.archive.org,Oficial/Fato,5522,297
+IU researchers find magnesium intake may be beneficial in preventing pancreatic cancer,https://web.archive.org,Oficial/Fato,7315,1717
+Blood test that could predict arthritis risk,https://web.archive.org,Oficial/Fato,5189,1307
+New study finds adult fresh pear consumers had a lower body weight than non-pear consumers,https://web.archive.org,Oficial/Fato,8041,212
+FDA allows marketing of cooling cap to reduce hair loss during chemotherapy,https://web.archive.org,Oficial/Fato,5110,447
+Virtual reality to help detect early risk of Alzheimer’s,https://www.theguardian.com,Oficial/Fato,2199,500
+Evofem's birth control gel meets main study goal; shares rise,https://web.archive.org,Oficial/Fato,4987,444
+How a breakthrough new fertility test is offering hope for families who have suffered miscarriages,https://abcnews.go.com,Oficial/Fato,2530,1561
+J&J says its psoriasis drug superior to Novartis treatment in study,https://www.reuters.com,Desinformação,7257,2384
+Incontinence Drug May Cut Hot Flashes in Breast Cancer Survivors,https://consumer.healthday.com,Desinformação,3828,1349
+"Before Starting A Statin, Talk It Over With Your Doctor",https://www.npr.org,Oficial/Fato,2438,1030
+Nerve Zap Might Ease Pain of Herniated Disk,https://consumer.healthday.com,Desinformação,7717,1664
+Cure For Cancer? FDA Announces New Aggressive Drug Attacking Originating Genes,https://web.archive.org,Desinformação,7750,1449
+"Researcher: Alzheimer's vaccine could cut dementia in half, human trials may be next",https://www.usatoday.com,Oficial/Fato,1474,1466
+"Peanut allergy experimental treatment helps 2 out of 3 sufferers, study finds",https://www.cnn.com,Oficial/Fato,3419,1084
+"Potential life-saving peanut allergy drug on horizon, scientists say",https://www.foxnews.com,Oficial/Fato,3290,1775
+Are you a robot?,https://www.bloomberg.com,Desinformação,4258,2494
+Merck drug Keytruda succeeds in late-stage esophageal cancer trial,https://web.archive.org,Oficial/Fato,4430,614
+Dementia: Five-minute neck scan can spot symptoms earlier,https://www.cnn.com,Oficial/Fato,949,660
+"Artificial intelligence can predict Alzheimer’s 6 years earlier than medics, study finds",https://www.foxnews.com,Desinformação,2025,959
+Trippy depression treatment? Hopes and hype for ketamine,https://www.apnews.com,Desinformação,8133,1787
+FDA approves new flu pill that can be taken after onset of symptoms,https://abcnews.go.com,Oficial/Fato,4466,1149
+F.D.A. Approves New Drug for Flu,https://www.nytimes.com,Desinformação,4225,2242
+Novartis drug cut death risk by 35 percent in gene mutation breast cancer,https://www.reuters.com,Desinformação,3370,1845
+3-Drug Therapy Might Be Cystic Fibrosis 'Breakthrough',https://consumer.healthday.com,Oficial/Fato,8347,1767
+New Nerve Stimulation Technique Might Relieve Back Pain,https://consumer.healthday.com,Desinformação,4334,1219
+Depression often goes undiagnosed. Researchers are turning to Facebook to change that.,http://www2.philly.com,Oficial/Fato,2403,883
+J&J's Stelara succeeds in chronic bowel disease study,https://www.reuters.com,Oficial/Fato,7844,527
+Migraine patients can now try three new drugs for prevention,http://www2.philly.com,Desinformação,1962,1078
+Doctors Use Bacteria as Weapon Against Cancer,https://consumer.healthday.com,Oficial/Fato,972,1334
+Vitamin D: Supplement Linked to Weight Loss in Overweight and Obese Children,https://web.archive.org,Oficial/Fato,6833,901
+"Antidepressants, psychotherapy may help ease irritable bowel syndrome",https://www.reuters.com,Oficial/Fato,6753,1697
+Amarin fish oil capsule shows dramatic benefit for cardiovascular patients,https://www.statnews.com,Desinformação,8568,581
+Tiny Device Is a ‘Huge Advance’ for Treatment of Severe Heart Failure,https://www.nytimes.com,Desinformação,4744,313
+Glioblastoma: Zika Virus Could Destroy Brain Cancer That Killed John McCain,https://web.archive.org,Oficial/Fato,3769,726
+Here’s how one woman used an implant to get some relief from chronic back pain,https://www.washingtonpost.com,Oficial/Fato,7185,1497
+Study: Medical Marijuana Relieves Range of Symptoms With No Serious Side Effects,https://www.usnews.com,Desinformação,4472,1212
+"Merck KGaA, Pfizer's immuno-drug shown to alleviate kidney cancer",https://www.reuters.com,Desinformação,2250,1519
+"Fish Oil Pills During Pregnancy Might Mean Stronger, Healthier Kids",https://consumer.healthday.com,Oficial/Fato,3849,128
+Weight-loss pills can help. So why don't more people use them?,https://www.nbcnews.com,Oficial/Fato,7037,727
+Cannabidiol Reduces Symptoms of Psychosis,https://www.usnews.com,Oficial/Fato,1888,1239
+The Scan That Saved My Life,https://www.wsj.com,Desinformação,7274,1574
+The FDA Says This Brain-Stimulating Device May Help People With Obsessive-Compulsive Disorder,https://www.buzzfeednews.com,Oficial/Fato,765,136
+"Experimental Drug Vistusertib Could Shrinks Tumors in 50% of Ovarian Cancer Patients, Study Suggests",https://web.archive.org,Oficial/Fato,8382,1865
+Breast Cancer Drug Promising in Phase 3 Trial,https://consumer.healthday.com,Desinformação,8285,1417
+"Multigene test may find risk for heart disease, diabetes and breast cancer",https://www.nbcnews.com,Desinformação,5916,669
+FDA approves marketing for a contraception app for the 1st time,https://abcnews.go.com,Desinformação,6498,1361
+Hyperbaric oxygen: The mysterious therapy that saved a cancer survivor from radiation side effects,http://www.philly.com,Oficial/Fato,5837,1406
+Hepatitis-Infected Kidneys a Safe Option for Transplant: Study,https://consumer.healthday.com,Desinformação,5106,650
+Ketamine Shows Promise As Treatment for Adolescents With Depression,https://web.archive.org,Oficial/Fato,5023,166
+Could a blood test lead to new treatments for depression?,https://abcnews.go.com,Desinformação,7680,1138
+Women with endometriosis experience terrible pain. There’s finally a new treatment.,https://web.archive.org,Oficial/Fato,5527,1322
+Could Pot-Linked Drug Help Ease Agitation in Alzheimer's?,https://consumer.healthday.com,Desinformação,3083,647
+"Experimental blood test could detect melanoma skin cancer early, study finds",https://www.cnn.com,Desinformação,5884,1077
+Worried About Dementia? You Might Want to Check Your Blood Pressure,https://www.npr.org,Desinformação,1835,2438
+A Simple Emergency Room Intervention Can Help Cut Suicide Risk,https://www.npr.org,Desinformação,7207,1384
+Which antidepressant is right for you? This genetic test could help,https://web.archive.org,Desinformação,6141,689
+Drugmakers Call Experimental Alzheimer’s Drug Study Outcome Positive,https://web.archive.org,Oficial/Fato,2129,1691
+"Maintaining healthy vision may help keep brain in shape, too",https://www.reuters.com,Desinformação,6772,475
+"Flu drug, taken in single dose, could upend treatment if approved in U.S.",https://www.statnews.com,Oficial/Fato,7010,1553
+Doctors Try Genetically Modified Poliovirus As Experimental Brain Cancer Treatment,https://www.npr.org,Desinformação,3317,1883
+Modified polio vaccine helps fight deadly brain tumors,https://www.nbcnews.com,Desinformação,2926,705
+"First marijuana-derived drug approved, will target severe epilepsy",https://www.washingtonpost.com,Desinformação,5740,1191
+Experimental type 1 diabetes vaccine causes improvement in small study,https://www.statnews.com,Oficial/Fato,4496,789
+One Blood Test Might Be Enough to Diagnose Diabetes,https://consumer.healthday.com,Desinformação,4319,2075
+16:8 Fasting Diet Linked to Weight Loss and Health Benefits in Study,https://web.archive.org,Oficial/Fato,5532,399
+New Prostate Cancer DNA Spit Test Developed by Scientists,https://web.archive.org,Desinformação,4593,1191
+This Blood Test Could Help Predict If A Pregnancy Is At Risk For Premature Labor,https://www.buzzfeed.com,Oficial/Fato,4765,1006
+Automatic texting helps ease stress of chemotherapy in breast cancer patients,https://www.reuters.com,Desinformação,6264,2149
+From Chaos To Calm: A Life Changed By Ketamine,https://www.npr.org,Oficial/Fato,6227,809
+'Holy grail of cancer research': doctors positive about early detection blood test,https://www.theguardian.com,Desinformação,4596,1006
+"Deep brain stimulation may offer treatment for type 2 diabetes, study suggests",http://www.latimes.com,Oficial/Fato,6282,1933
+Newly Identified Form of Vertigo Responds to Treatment,https://consumer.healthday.com,Desinformação,6185,1594
+Are you a robot?,https://www.bloomberg.com,Desinformação,7372,948
+FDA approves new drug that prevents migraines without side effects,https://www.nbcnews.com,Oficial/Fato,3312,1528
+Laughing gas makes a comeback for women in labor - like Kate Middleton,http://www.philly.com,Oficial/Fato,4859,1616
+FDA expands use of Novartis MS drug to pediatric patients,https://www.reuters.com,Desinformação,8298,1237
+"New Cure for Baldness Could Be Found in Existing Drug, Scientists Say",https://web.archive.org,Oficial/Fato,5213,1092
+Which Anti-Depressant Is Right for You? Your DNA Can Shed Some Light,https://www.wsj.com,Desinformação,8372,2196
+Earlier Mammograms May Mean Less Need for Aggressive Treatments,https://consumer.healthday.com,Desinformação,2781,1450
+Ecstasy as a Remedy for PTSD? You Probably Have Some Questions.,https://www.nytimes.com,Desinformação,7916,653
+Partial rather than full knee replacements better for many – report,https://www.theguardian.com,Desinformação,8718,2471
+A Better Clot-Buster Drug for Strokes?,https://consumer.healthday.com,Desinformação,4845,1474
+Prostate cancer breakthrough as UK team develops more accurate test,https://www.theguardian.com,Oficial/Fato,656,581
+Amgen's Aimovig halved migraine days in 30 percent of trial patients,https://www.reuters.com,Desinformação,8721,1720
+Overcoming Fear of Back Pain May Spur Recovery,https://consumer.healthday.com,Desinformação,1602,1394
+"For advanced lung cancer, immune therapy plus chemo prolongs survival",https://www.washingtonpost.com,Oficial/Fato,5400,953
+Immune Treatments Show Promise for Lung Cancer,http://time.com,Desinformação,4926,1982
+New way of defining Alzheimer's aims to find disease sooner,https://web.archive.org,Oficial/Fato,4492,719
+Why You Should Get the New Shingles Vaccine,https://www.nytimes.com,Desinformação,5503,2482
+Legal marijuana could help offset opioid epidemic,https://www.cnn.com,Oficial/Fato,8272,1144
+"Boomers are going bionic, and they want joint replacements to let them do it all",http://www.bostonglobe.com,Oficial/Fato,4565,1627
+Prostate-Cancer Gene Test Helps Patients Decide on Treatment,https://web.archive.org,Oficial/Fato,6008,1920
+Selfie Medicine: Phone Apps Push People to Take Their Pills,https://web.archive.org,Desinformação,8081,806
+Roche's Tecentriq cocktail adds to lung cancer survival success,https://www.reuters.com,Oficial/Fato,2004,136
+Modified Pap tests can show early warning signs of other gynecological cancers,http://www.latimes.com,Desinformação,5186,1720
+Is kratom a safe herbal remedy or a dangerous opioid?,http://www.philly.com,Oficial/Fato,800,1871
+DMAU: Male Birth Control Pill Offers 'Unprecedented' Study Results,https://web.archive.org,Oficial/Fato,2683,580
+A Surgery-Free Fix for Bad Knees?,https://consumer.healthday.com,Desinformação,8835,1243
+FDA takes fresh step towards curbing U.S. nicotine addiction,https://www.reuters.com,Oficial/Fato,5710,349
+Three-in-One Pill Shows Promise in Beating High Blood Pressure,https://consumer.healthday.com,Oficial/Fato,8180,1601
+"Menopause 'hot flash' medicine could cut symptom by three quarters, trial shows",http://abcnews.go.com,Oficial/Fato,4135,625
+How barbershops could help lower blood pressure,https://www.cnn.com,Desinformação,7152,357
+Test risk of breast cancer from home with new FDA-approved DNA kit by 23andMe,https://www.usatoday.com,Oficial/Fato,6623,1513
+Alcoholics Anonymous works for some people. A new study suggests the alternatives do too.,https://www.vox.com,Oficial/Fato,8301,289
+This Chef Lost 50 Pounds And Reversed Prediabetes With A Digital Program,https://www.npr.org,Oficial/Fato,613,362
+What’s in the IV bag? Studies show safer option than saline,https://www.statnews.com,Desinformação,3305,406
+Less-invasive heart valve replacement tied to better quality of life,https://www.reuters.com,Oficial/Fato,1240,557
+Google Retinal Scans Can Predict if You Will Have a Heart Attack,https://web.archive.org,Oficial/Fato,1247,880
+"Antidepressants Do Work, And Many More People Should Take Them: Major International Study",https://web.archive.org,Oficial/Fato,7319,975
+"New test can detect autism in children, scientists say",https://www.theguardian.com,Oficial/Fato,5175,1363
+FDA approves first blood test for concussion,https://www.cnn.com,Oficial/Fato,554,1624
+"Alzheimer's disease reversed in mice, offering hope for humans, new research shows",http://abcnews.go.com,Desinformação,7045,1165
+Could this experimental drug stop the flu in 24 hours?,https://www.cbsnews.com,Desinformação,5977,1567
+This UV Lamp Could Prevent the Flu Virus From Spreading in Public Places,http://time.com,Desinformação,1891,1763
+Shining a Deadly New Light on Airborne Flu Virus,https://consumer.healthday.com,Oficial/Fato,2670,476
+Gone With A Shot? Hopeful New Signs Of Relief For Migraine Sufferers,https://www.npr.org,Oficial/Fato,2112,681
+Are you a robot?,https://www.bloomberg.com,Desinformação,4371,860
+Are you a robot?,https://www.bloomberg.com,Desinformação,5424,2277
+Brain 'Pacemaker' Might Help Slow Alzheimer's,https://consumer.healthday.com,Desinformação,6838,1150
+Could hyperbaric treatment heal the brain?,https://www.washingtonpost.com,Oficial/Fato,704,1321
+New Findings Could Save Lives of More Stroke Patients,https://www.nytimes.com,Desinformação,8099,2268
+"Sleep apnea patient finds rest with implant device: ""It saved my life""",https://www.cbsnews.com,Desinformação,5296,594
+New approach to abdominal aortic aneurysm saves lives,https://www.nbcnews.com,Oficial/Fato,4154,1351
+Scientists Edge Closer To A Blood Test To Detect Cancers,https://www.npr.org,Oficial/Fato,2660,1522
+FDA approves first drug aimed at women with inherited breast cancer,https://www.statnews.com,Desinformação,4531,578
+'Bone Cement': A Non-Surgical Option for Painful Joints?,https://consumer.healthday.com,Desinformação,5564,684
+Stem Cells for Knee Problems? U.S. Doctors Investigate,https://web.archive.org,Desinformação,8423,1607
+Bariatric Surgery Helps Teens With Severe Obesity Reduce Heart Disease Risk,https://www.npr.org,Oficial/Fato,1680,443
+"Luxturna gene therapy to cost $425,000 per eye",http://www.cnn.com,Desinformação,7275,965
+Drinking hot tea linked to lowered glaucoma risk,https://www.reuters.com,Oficial/Fato,2435,265
+Research: Mild Cognitive Impairment Patients Should Exercise Twice a Week,https://health.usnews.com,Oficial/Fato,3611,798
+Do you take calcium and vitamin D to protect your bones? A new study says it doesn't help,https://web.archive.org,Desinformação,2047,708
+ADHD Stimulants Might Help a Smoker With the Disorder Cut Back on Cigarettes,https://health.usnews.com,Oficial/Fato,3509,1036
+Could A Zap To The Brain Derail Destructive Impulses?,https://www.npr.org,Desinformação,8053,805
+Study: Antibiotics could dramatically reduce sexually transmitted infections,https://www.statnews.com,Oficial/Fato,2597,819
+"Migraines plague millions, especially women. Now there's new hope",http://www.philly.com,Desinformação,6094,1400
+"Get Active, Beat Lymphoma?",https://consumer.healthday.com,Desinformação,8113,1885
+Gene therapy makes a big advance treating hemophilia B blood disorder,https://www.washingtonpost.com,Oficial/Fato,8166,662
+Open windows and doors can improve sleep quality,https://www.reuters.com,Oficial/Fato,770,701
+"Weight Loss Really Can Reverse Diabetes, New Study Finds",http://time.com,Desinformação,6171,714
+Radiofrequency therapy relieved herniated disc pain in new study,https://www.nbcnews.com,Oficial/Fato,2178,200
+"Migraine drug could halve the length of attacks, study shows",https://www.theguardian.com,Desinformação,1762,1664
+Eating a Poop Pill Works to Cure This Deadly and Common Hospital Infection,https://web.archive.org,Oficial/Fato,2005,1292
+Replacing lymph nodes to ease painful legacy of cancer care,https://web.archive.org,Oficial/Fato,3047,1120
+"Want to Live Longer? Every Movement Counts, Even Cleaning the House",http://time.com,Oficial/Fato,6101,1766
+"Spit test may diagnose, predict duration of concussion in kids",http://www.cnn.com,Oficial/Fato,1324,802
+More than 103 million Americans will have high blood pressure under new guidelines,http://abcnews.go.com,Oficial/Fato,3837,471
+"Some opioid addiction drugs harder to start than others, study finds",http://www.cnn.com,Oficial/Fato,884,428
+"Regular painkillers work as well as opioids for sprains, strains and fractures",https://www.washingtonpost.com,Oficial/Fato,6134,178
+IUDs May Have A Surprising Added Health Benefit,https://www.buzzfeed.com,Oficial/Fato,1550,1677
+Blood From Young People Safe and Just Might Help Alzheimer's Patients,https://www.nbcnews.com,Desinformação,6462,941
+‘Unbelievable’: Heart Stents Fail to Ease Chest Pain,https://www.nytimes.com,Oficial/Fato,2667,1169
+Study Raises Questions About Stents in Some Heart Patients,https://www.wsj.com,Desinformação,2681,2317
+First test of anti-epilepsy surgeries in children shows dramatic benefit,http://www.reuters.com,Oficial/Fato,3746,1778
+Can Vitamin A Help With My COPD?,https://health.usnews.com,Oficial/Fato,7445,175
+Blood Thinners May Also Protect Brains of A-Fib Patients,https://consumer.healthday.com,Desinformação,6534,696
+New Treatment for Fibroids Without Surgery,https://www.wsj.com,Desinformação,2114,320
+404 Not Found,https://www.washingtonpost.com,Desinformação,4366,906
+Cutting-edge immunotherapy treatment approved for another deadly cancer,https://www.washingtonpost.com,Oficial/Fato,1647,1865
+Muscular Dystrophy: Heartbroken Family Awaits FDA Decision on Experimental Drug,https://web.archive.org,Desinformação,2984,1119
+Ebola Vaccines Show Promise in New Study,https://www.wsj.com,Desinformação,4374,1857
+Breast Cancer Screenings Still Best for Early Detection,https://consumer.healthday.com,Oficial/Fato,4675,1184
+Hate UTIs? One Simple Step Can Cut the Risk,https://consumer.healthday.com,Desinformação,3331,1795
+"In a First, Gene Therapy Halts a Fatal Brain Disease",https://www.nytimes.com,Desinformação,6025,1948
+Just One Hour of Exercise a Week May Help Prevent Depression,http://time.com,Desinformação,4225,1144
+FDA approves 1st blood sugar monitor without finger pricks,https://web.archive.org,Oficial/Fato,2469,1551
+Study: Whooping cough vaccination during pregnancy protects newborns,http://www.philly.com,Desinformação,8899,415
+Researchers identify CTE biomarker that may lead to diagnosis while alive,http://www.cnn.com,Desinformação,3479,2319
+This Test Can Determine Whether You've Outgrown A Food Allergy,http://www.npr.org,Oficial/Fato,1107,665
+Strange but true: Sleep deprivation can help depression. Penn scientists want to know why,http://www.philly.com,Oficial/Fato,6953,950
+How to Lose Weight: Two-Week Diet Better for Dropping Pounds,https://web.archive.org,Desinformação,1546,1316
+The big question: Will cancer immune therapy work for me?,https://web.archive.org,Desinformação,2947,2292
+What to know about the new affordable at-home BRCA genetic mutation test,http://abcnews.go.com,Desinformação,2138,1888
+New Product Is First to Claim It May Reduce Peanut Allergies,https://www.nytimes.com,Oficial/Fato,2993,718
+Menopause hormone therapy not linked to premature death,https://www.reuters.com,Desinformação,5050,584
+Fecal Occult Stool Tests for Colorectal Cancer Screening,http://health.usnews.com,Oficial/Fato,1950,881
+"Statins cut the risk of heart disease death by 28% among men, study shows",https://www.theguardian.com,Desinformação,8704,1860
+Immune-Focused Drug May Be New Weapon Against Advanced Melanoma,https://consumer.healthday.com,Desinformação,6250,553
+"PSA saves lives, a new analysis finds. Not everyone agrees",https://www.statnews.com,Oficial/Fato,2479,788
+"PSA screening for prostate cancer saves lives after all, study says",http://www.latimes.com,Oficial/Fato,3709,866
+Laughing gas makes a comeback as painkiller in ambulances,https://web.archive.org,Oficial/Fato,4297,902
+"Ecstasy could be ‘breakthrough’ therapy for soldiers, others suffering from PTSD",https://www.washingtonpost.com,Desinformação,8048,2081
+A New Drug Lowers Risk of Heart Attack and Cancer,http://time.com,Oficial/Fato,5873,1110
+"Novartis hopeful for novel heart drug, despite 'modest' benefit",http://www.reuters.com,Oficial/Fato,1592,586
+Adamas Pharma secures approval for Parkinson's dyskinesia drug,http://www.reuters.com,Desinformação,7588,2107
+Thinning Hair? A New Treatment Offers Hope,https://www.nytimes.com,Desinformação,3101,316
+A New Therapy May Cure Kids of Peanut Allergy,http://time.com,Desinformação,8458,995
+Blood Test Finds Cancer Before Symptoms Start,http://www.nbcnews.com,Oficial/Fato,6000,125
+Are you a robot?,https://www.bloomberg.com,Oficial/Fato,7399,820
+New ALS drug Radicava comes with new questions as well,http://abcnews.go.com,Oficial/Fato,5226,842
+Finding the Right Medication: Gene Test May Help Treat Depression,http://www.nbcnews.com,Oficial/Fato,4746,901
+"Flattening The 'Mummy Tummy' With 1 Exercise, 10 Minutes A Day",http://www.npr.org,Oficial/Fato,1521,781
+Novel Procedure Improves Kidney Transplant Success,https://consumer.healthday.com,Desinformação,6069,2229
+Can a genetic test really boost your odds of becoming pregnant?,https://www.statnews.com,Desinformação,8081,1084
+Scientists Edge Closer To Elusive Lab Test For Chronic Fatigue Syndrome,http://www.npr.org,Desinformação,4010,2244
+Is it Alzheimer’s or another dementia form? Why doctors need to distinguish and how they might do so,http://www.latimes.com,Oficial/Fato,2292,1163
+"Stem cell brain implants could 'slow ageing and extend life', study shows",https://www.theguardian.com,Oficial/Fato,674,1264
+There's a promising new HIV vaccine candidate in the pipeline,https://www.vox.com,Desinformação,2733,1048
+Beyond The Nasty Needle: Trying To Make Vaccines More Comfy And Convenient,http://www.npr.org,Oficial/Fato,1261,1963
+A new study suggests it’s possible to get people off opioids and improve their pain,https://www.vox.com,Desinformação,7874,325
+Laser Therapy Shows Promise Against Eye 'Floaters',https://consumer.healthday.com,Desinformação,6263,1182
+Cancer and Kids: Is Medical Marijuana the Answer?,https://web.archive.org,Oficial/Fato,758,912
+New Heart Imaging Method May Predict Heart Attacks,http://www.nbcnews.com,Oficial/Fato,7515,1532
+First gene therapy — ‘a true living drug’ — on the cusp of FDA approval,https://www.washingtonpost.com,Desinformação,7407,1596
+"Vaccine shows protection against gonorrhea for first time, study says",https://www.statnews.com,Oficial/Fato,3995,301
+Two big studies bolster the claim that coffee – even decaf – is good for you,http://www.latimes.com,Desinformação,4682,2361
+Cancer Breakthrough: Personalized Melanoma Vaccines ‘Safe and Effective’ in First Human Clinical Trials,https://web.archive.org,Desinformação,8280,473
+You’ve Got Mail About Quitting Smoking,http://health.usnews.com,Oficial/Fato,5131,1737
+Therapy animals are everywhere. Proof that they help is not.,https://www.washingtonpost.com,Desinformação,4563,1064
+Blood test by Britain's Angle detects ovarian cancer in study,http://www.reuters.com,Desinformação,7127,920
+Can an Aspirin a Day Keep a Pregnancy Complication Away?,https://consumer.healthday.com,Oficial/Fato,7762,599
+Here's What You Need To Know About The Internal Condom,https://www.buzzfeed.com,Desinformação,2770,1721
+"To Treat Depression, Try a Digital Therapist",https://www.wsj.com,Desinformação,2580,605
+New drug shows promise against vision-robbing disease in seniors,https://www.thestar.com,Oficial/Fato,1210,1838
+The Case Against – and for – Arthroscopic Knee Surgery,http://health.usnews.com,Desinformação,5098,1205
+New study shows promise of yoga in treating back pain,http://www.cbsnews.com,Oficial/Fato,7969,536
+Acupuncture May Be Effective Painkiller in the ER,https://consumer.healthday.com,Oficial/Fato,838,256
+"Prostate cancer blood test could transform treatment, say scientists",https://www.theguardian.com,Oficial/Fato,3745,1771
+The O-Shot: Incontinence fix or empty promise?,http://www.philly.com,Oficial/Fato,1179,145
+'Cool' New Knee Procedure Eases Arthritis Pain Without Surgery,http://www.nbcnews.com,Oficial/Fato,8461,1391
+Tweaking brains with ‘smart drugs’ to get ahead in Silicon Valley,https://www.washingtonpost.com,Desinformação,7866,463
+It's Snakes to the Rescue for Heart Patients,https://consumer.healthday.com,Desinformação,3585,1304
+"New Vaccine Could Stop Heroin Abuse by Blocking High, Study Suggests",https://web.archive.org,Oficial/Fato,5458,704
+Does chondroitin trump an anti-inflammatory for arthritic knee pain?,http://www.reuters.com,Oficial/Fato,7423,1033
+How Probiotics May Help Depression,http://time.com,Desinformação,2076,2028
+Are you a robot?,https://www.bloomberg.com,Desinformação,4837,1581
+Fast help for men whose prostates won't let them go,http://www.philly.com,Desinformação,5896,1697
+Immunotherapy drug opens a new era of precision medicine for cancer,http://www.latimes.com,Oficial/Fato,1302,1380
+"Cannabidiol slashes seizures in kids with rare epilepsy, study finds",http://www.cnn.com,Oficial/Fato,2410,1045
+Obesity Cure? Scientists Discover Antibody That Reduces Body Fat in Mice,https://web.archive.org,Oficial/Fato,4589,1974
+High blood platelet count 'as good a cancer predictor as a lump in the breast',https://www.theguardian.com,Oficial/Fato,958,1532
+Could Cancer Drug Gleevec Help With Severe Asthma?,https://consumer.healthday.com,Desinformação,1507,1958
+Merck says test shows Keytruda improves survival for bladder cancer patients,http://www.reuters.com,Oficial/Fato,6986,1541
+Are you a robot?,https://www.bloomberg.com,Desinformação,4624,2316
+New Technology May Help Ease Sleep Apnea,http://www.nbcnews.com,Desinformação,3261,1920
+"For women, baby aspirin may reduce risk of breast cancer",https://www.washingtonpost.com,Oficial/Fato,4742,1866
+Blood Thinners May Prevent Dementia in Atrial Fibrillation Patients,https://consumer.healthday.com,Oficial/Fato,1482,1550
+Microsoft shows off watch that quiets Parkinson's tremors,https://www.usatoday.com,Oficial/Fato,6116,818
+Experimental drug reduces thyroid-associated ‘Graves' eyes’,http://www.reuters.com,Desinformação,2467,982
+Can Marijuana Restore Memory? New Study Shows Cannabis Can Reverse Cognitive Decline in Mice,https://web.archive.org,Oficial/Fato,2067,235
+Spit Test May Reveal The Severity Of A Child's Concussion,http://www.npr.org,Oficial/Fato,7020,1525
+Arthritis Drug Shows Promise for Ulcerative Colitis,https://consumer.healthday.com,Oficial/Fato,4873,1580
+"One Day, a Machine Will Smell Whether You’re Sick",https://www.nytimes.com,Oficial/Fato,1770,297
+Therapy ‘has long-term benefits for mothers with depression’,https://www.theguardian.com,Desinformação,6637,538
+"In small Alzheimer’s study, hints of modest benefit from unusual drug",https://www.statnews.com,Oficial/Fato,1824,1923
+Novel therapy for rare eye cancer holds promise for targeting other tumors,http://www.philly.com,Desinformação,2524,1072
+Treating Vulvo-Vaginal Atrophy,http://health.usnews.com,Desinformação,2652,1455
+New Procedure Looks Promising for Men With Enlarged Prostates,https://www.wsj.com,Desinformação,7285,787
+"Fighting the flu, with frog mucus",http://www.cnn.com,Oficial/Fato,1154,1463
+"‘Pacemaker’ for the Brain Can Help Memory, Study Finds",https://www.nytimes.com,Oficial/Fato,1366,926
+FDA Approves Vagus Nerve Stimulator to Treat Cluster Headaches,http://www.nbcnews.com,Desinformação,6686,2352
+Botox tested to help treat depression and social anxiety,http://www.cbsnews.com,Oficial/Fato,567,846
+"Trans fats ban linked with fewer heart attacks, strokes",https://web.archive.org,Oficial/Fato,4725,1441
+Hospitalizations drop where laws restrict trans fats,http://www.reuters.com,Desinformação,7732,1301
+Facial-recognition software finds new use: diagnosing genetic disorders,https://www.statnews.com,Desinformação,8331,1378
+Can Stem Cell 'Patch' Help Heart Failure?,https://consumer.healthday.com,Desinformação,7700,636
+Should you walk or run for exercise? Here's what the science says.,http://www.vox.com,Oficial/Fato,6650,1376
+"Low-dose aspirin can reduce risk of death from cancer, study says",http://www.cnn.com,Oficial/Fato,4617,1475
+Promising new lymphoma treatment gets fast-tracked by FDA,http://www.cbsnews.com,Desinformação,2586,627
+Mood-Boosting Magnets Might Help Treat Depression,https://web.archive.org,Desinformação,3664,1061
+New Eczema Drug Dupixent wins FDA Approval,http://www.nbcnews.com,Desinformação,3576,1146
+Training Your Brain So That You Don’t Need Reading Glasses,https://www.nytimes.com,Desinformação,1550,2402
+This Tiny Device Is a 'Game Changer' for People Facing Blindness,http://www.nbcnews.com,Oficial/Fato,5124,900
+Researchers just exposed another way to help combat the opioid epidemic,http://www.vox.com,Oficial/Fato,7623,951
+Sperm problems? Smartphone device could screen for infertility,http://www.cbsnews.com,Desinformação,3453,698
+"Web-based counseling reduces blood pressure, according to a new study",https://www.washingtonpost.com,Oficial/Fato,8097,115
+Pop a Pill for Heartburn? Try Diet and Exercise Instead,https://www.nytimes.com,Oficial/Fato,6516,575
+Having Heart Surgery? Don’t Stop Your Statins,https://www.nytimes.com,Desinformação,3830,1704
+Are you a robot?,https://www.bloomberg.com,Oficial/Fato,2292,778
+Forget cribs. A cardboard box may be the safest place for your baby to sleep,https://www.bostonglobe.com,Oficial/Fato,6602,1679
+Quality of life after heart CT scan depends on results,http://www.reuters.com,Desinformação,5393,1005
+The Sound of ‘Pink Noise’ Improves Sleep and Memory,http://time.com,Oficial/Fato,1514,939
+Eating More — Or Less — Of 10 Foods May Cut Risk Of Early Death,http://www.npr.org,Desinformação,6914,881
+"High-intensity interval training may have anti-aging benefits, study finds",http://abcnews.go.com,Desinformação,2621,450
+Mild electric shocks on the arm might help ease migraine pain,http://www.reuters.com,Desinformação,2158,2086
+Excess brain fluid may predict autism in high-risk babies,http://www.today.com,Desinformação,3362,1327
+Kite's CAR-T cancer therapy shows strong results in key study,https://www.statnews.com,Oficial/Fato,4323,1584
+A Medicine That Blunts The Buzz Of Alcohol Can Help Drinkers Cut Back,http://www.npr.org,Oficial/Fato,5974,1083
+New Drugs May Stop Migraines Before They Start,http://www.nbcnews.com,Oficial/Fato,3197,513
+Vitamin IVs make bold health promises. But where's the evidence?,https://www.statnews.com,Oficial/Fato,5447,265
+Scientists mix friendly bacteria into lotions to ward off bad germs,http://www.cbsnews.com,Desinformação,4783,907
+Major study finds testosterone therapy is no fountain of youth,http://www.philly.com,Oficial/Fato,7528,1452
+Stem Cell Transplants May Help Some With Multiple Sclerosis,https://consumer.healthday.com,Desinformação,8000,625
+How a New Psoriasis Drug Is Different From Others,http://time.com,Desinformação,3080,1457
+"For the Blind, an Actual-Reality Headset",https://www.wsj.com,Oficial/Fato,1943,579
+"Common weed could help fight deadly superbug, study finds",https://www.washingtonpost.com,Desinformação,8097,1585
+Why Weight Loss Surgery Works When Diets Don’t,https://www.nytimes.com,Oficial/Fato,1624,1531
+"Blood test might make Parkinson's diagnosis easier, study says",http://www.cnn.com,Oficial/Fato,2683,373
+"This App Says It's As Good As The Pill At Preventing Pregnancy, But Experts Want More Evidence",https://www.buzzfeed.com,Oficial/Fato,7714,323
+Low-FODMAP diet catches on among people with digestive misery,http://www.usatoday.com,Oficial/Fato,6787,1258
+Hormone Blockers Can Prolong Life if Prostate Cancer Recurs,https://www.nytimes.com,Oficial/Fato,1109,1056
+Old drug gets new trick for prostate cancer treatment,https://www.statnews.com,Desinformação,4750,2007
+Amgen cholesterol drug succeeds in cutting serious heart problems: study,http://www.reuters.com,Oficial/Fato,6925,694
+Can Breath Test Detect Stomach Cancers Earlier?,https://consumer.healthday.com,Desinformação,3194,1857
+Alternative medicine might help treat premature ejaculation,http://www.reuters.com,Desinformação,7830,1238
+"Fecal transplants may help children with autism, researchers claim",http://www.foxnews.com,Desinformação,7524,657
+'Ablation' Procedure Helps 3 out of 4 Patients With Irregular Heartbeat,https://consumer.healthday.com,Oficial/Fato,2913,1932
+"Kangaroo Care Helps Preemies And Full Term Babies, Too",http://www.npr.org,Desinformação,7629,1140
+Research shows you really can lose weight — by combining diet AND exercise AND counseling,http://www.philly.com,Oficial/Fato,1711,674
+Should More Kids Have Their Tonsils Out?,https://consumer.healthday.com,Oficial/Fato,5575,1027
+Good news for people who love spicy food,http://www.cbsnews.com,Desinformação,1554,525
+Is Coffee Bad? How Caffeine Might Slow Down Aging,http://time.com,Oficial/Fato,2338,1922
+"Weekend workouts can benefit health as much as regular exercise, say researchers",https://www.theguardian.com,Desinformação,5507,862
+‘Weekend Warrior’ Workouts are Beneficial as Just 20 Minutes of Exercise a Day,https://web.archive.org,Desinformação,8832,1288
+Bystander CPR may boost survival odds when ambulance delayed,http://www.reuters.com,Desinformação,2971,1468
+Can Lumbar Support Devices Relieve Lower Back Pain?,http://health.usnews.com,Desinformação,4040,1621
+CAR-T therapy makes early inroads in treating brain cancer,https://www.statnews.com,Oficial/Fato,1522,1216
+Experimental Brain Cancer Treatment Is a Success,http://time.com,Desinformação,6233,2293
+Taking Fish Oil During Pregnancy Is Found to Lower Child’s Asthma Risk,http://www.nytimes.com,Oficial/Fato,6542,1731
+Heart Failure Drug Shows Promise in First Human Trial,https://consumer.healthday.com,Desinformação,5064,1581
+Short Course of Antibiotics Not Best for Kids' Ear Infections,https://consumer.healthday.com,Desinformação,4507,493
+Laser therapy with deep-sea drug kills prostate cancer in trial,http://www.reuters.com,Oficial/Fato,5059,1550
+Starting school later might really help sleep-deprived teens,http://www.vox.com,Oficial/Fato,7705,1257
+Melanoma survivors' friends can help spot new moles,http://www.reuters.com,Desinformação,6657,1468
+Never Too Old to Be an Organ Donor,http://www.nytimes.com,Desinformação,1734,1793
+Cuddling Preemies Kangaroo Style Helps Into Adulthood,http://www.nbcnews.com,Desinformação,5696,1935
+Pets Help People Manage The Pain Of Serious Mental Illness,http://www.npr.org,Desinformação,3455,2045
+Why Biogen is breathing a sigh of relief with the latest Alzheimer’s data,https://www.statnews.com,Desinformação,2116,682
+How optimism may help you live longer,http://www.cbsnews.com,Oficial/Fato,2547,1751
+Strobe lighting provides a flicker of hope in the fight against Alzheimer’s,https://www.theguardian.com,Oficial/Fato,8437,1937
+Exercise May Be the Key to Better Sperm,http://time.com,Oficial/Fato,7404,864
+Driving home from night shift may be safer with light therapy,http://www.reuters.com,Desinformação,8805,990
+There’s something in magic mushrooms that’s shown to ease anxiety and depression in cancer patients in one dose,http://www.latimes.com,Desinformação,8209,1823
+Allergy treatments enter new era as money pours into field,https://www.statnews.com,Oficial/Fato,8317,163
+Sweat it out! Skin patch aims to test sweat for health,https://www.statnews.com,Oficial/Fato,6907,1393
+Can’t Get to Sleep? Lay Off the Drugs,http://www.wsj.com,Desinformação,2892,2402
+Older Patients Can Benefit From Lung Cancer Surgery,http://www.npr.org,Oficial/Fato,2489,1262
+Are you a robot?,http://www.bloomberg.com,Oficial/Fato,5859,1851
+"Prisons fight opioids with $1,000 Vivitrol injections: Does it work?",http://www.cbsnews.com,Desinformação,5818,2175
+New statin guidelines: Everyone 40 and older should be considered for the drug therapy,https://www.washingtonpost.com,Desinformação,4460,2353
+Scientists develop new type of HIV test on a USB stick,http://www.reuters.com,Desinformação,6204,473
+Breathe. Exhale. Repeat: The Benefits of Controlled Breathing,http://www.nytimes.com,Desinformação,7701,1301
+Hospitals Fast-Track Treatments for Hip Fractures,http://www.wsj.com,Oficial/Fato,5532,401
+Calcium supplements and your heart: Researchers send mixed messages,http://www.usatoday.com,Oficial/Fato,3756,1450
+Balloon-in-a-Pill Helped Obese Patients Lose Weight,https://consumer.healthday.com,Oficial/Fato,3934,681
+Bloodsucking parasitic hookworms could help make millions of people healthier,https://www.washingtonpost.com,Desinformação,2915,969
+"Testing cholesterol in toddlers, even younger? Study says it could help",https://www.statnews.com,Desinformação,1683,1702
+Study offers potential breakthrough in care of children with autism,https://www.theguardian.com,Desinformação,5506,1848
+Mail-Order Tests Check Cells for Signs of Early Aging,http://www.wsj.com,Oficial/Fato,4538,1102
+Fighting genetic disease with help from HIV virus,http://www.cbsnews.com,Oficial/Fato,1977,1450
+App Helps Save Seattle Cardiac Patient,https://web.archive.org,Oficial/Fato,6141,767
+Omega 3 Fats May Help Fertility,http://time.com,Desinformação,4266,1443
+Anti-inflammatory drugs might someday treat depression,http://www.cnn.com,Desinformação,6772,2116
+Brain Implant Restores Sense Of Touch To Paralyzed Man,http://www.npr.org,Desinformação,7951,937
+Powerful MS Drug Used Early May Reverse Some Disability,https://consumer.healthday.com,Oficial/Fato,4244,1949
+The race to create a new class of ovarian cancer drugs heats up,https://www.statnews.com,Desinformação,3847,2448
+"'New day' in lung cancer as Merck drug shines, works with chemo",http://www.reuters.com,Oficial/Fato,959,1041
+Botox Works As Well As Nerve Stimulator for Incontinence – Study,http://www.nbcnews.com,Oficial/Fato,2765,807
+This 8-year-old is free of cancer — for now — after a ‘breakthrough’ treatment,https://www.washingtonpost.com,Oficial/Fato,7676,619
+Marisa Tomei opens up about her struggle with chronic dry eye,http://www.foxnews.com,Oficial/Fato,3060,1993
+New Drug for Severe Eczema Is Successful in 2 New Trials,http://www.nytimes.com,Oficial/Fato,1238,963
+How to heal head injuries? Try new app,http://www.philly.com,Oficial/Fato,5050,165
+"Walking Fends Off Loss Of Mobility, And It's Not Too Late To Start",http://www.npr.org,Desinformação,6808,2263
+"Blood Clot Removal Could Help More Stroke Victims, Study Finds",http://abcnews.go.com,Oficial/Fato,955,1032
+The drug industry might finally have an answer for migraines,https://www.statnews.com,Oficial/Fato,1779,1123
+New Nuclear-Imaging Tests Show Promise in Locating Cancer,http://www.wsj.com,Desinformação,3033,2301
+"More Breast Cancer Patients Should Consider Radiation, New Guidelines Say",https://consumer.healthday.com,Desinformação,3509,466
+Eating Eggs and Peanuts Early Lowers Risk of Food Allergies,http://time.com,Desinformação,8824,2094
+Study shines a light on low winter-time male libido,http://www.reuters.com,Oficial/Fato,1556,871
+New inhaler protects lungs against effects of air pollution,https://www.theguardian.com,Desinformação,4818,413
+No More Readers? New Implant May Help Aging Eyes,http://www.nbcnews.com,Desinformação,2472,1607
+New Ways to Fight Super Lice,http://www.wsj.com,Desinformação,2289,1339
+Michigan Athletic Group Says Concussion Program Works,https://web.archive.org,Oficial/Fato,6858,1654
+You Asked: Are Infrared Saunas Healthy?,http://time.com,Desinformação,5765,1876
+"There’s new hope for blood cancers, and it comes from umbilical cords",https://www.washingtonpost.com,Oficial/Fato,4478,1316
+The water workout trend health experts are gushing over,http://www.cbsnews.com,Oficial/Fato,2217,1005
+Weight-Loss Surgery Sheds Pounds Long Term,https://consumer.healthday.com,Desinformação,1523,375
+Test Of Experimental Alzheimer's Drug Finds Progress Against Brain Plaques,http://www.npr.org,Oficial/Fato,3170,1250
+Rethinking the Use of Hormones to Ease Menopause Symptoms,http://well.blogs.nytimes.com,Desinformação,4636,2376
+Can Blood Tests Detect Schizophrenia and Other Mental Illnesses?,https://web.archive.org,Oficial/Fato,3609,626
+Are you a robot?,http://www.bloomberg.com,Oficial/Fato,8339,978
+Focused brain ultrasound offers some hope for essential tremor,https://www.statnews.com,Desinformação,8277,1781
+"How often should you get a mammogram? It depends on whether you have dense breast tissue, experts say",http://www.latimes.com,Oficial/Fato,2344,196
+What is melatonin and can it help me sleep?,http://www.vox.com,Desinformação,5690,2418
+Medicating Children With ADHD Keeps Them Safer,http://www.wsj.com,Oficial/Fato,6497,392
+Injected Drug May Help Fight Osteoporosis in Women,https://consumer.healthday.com,Desinformação,7078,1525
+Could Worms In Your Gut Cure Your Allergies?,http://www.npr.org,Desinformação,1737,2145
+"Lithium should be more widely used for bipolar disorder, researchers say",https://www.theguardian.com,Desinformação,7161,1098
+"Period Pain Drug Can Cure Alzheimer’s Disease, New Study Suggests",http://www.medicaldaily.com,Desinformação,8423,2377
+'Striking' Results from Early Zika Vaccine Trial,http://www.nbcnews.com,Desinformação,5743,2021
+Novartis asthma pill shows promise in small trial,http://www.reuters.com,Oficial/Fato,3414,388
+New Asthma Treatment: Pill Makes Huge Difference In Patients With Severe Symptoms,http://www.medicaldaily.com,Oficial/Fato,4041,735
+You Could Skip Your Colonoscopy If You’re Willing To Collect Your Poop,http://fivethirtyeight.com,Desinformação,4465,647
+Fish Oil Benefits after Heart Attack,http://time.com,Oficial/Fato,1931,779
+She found relief for PTSD with a different kind of therapy. But does it work?,https://www.washingtonpost.com,Desinformação,3802,2303
+"To reverse damage of sitting, take a brisk, hour-long walk",http://www.usnews.com,Desinformação,8198,1180
+Allergy sufferers find relief in immunotherapy toothpaste,http://www.foxnews.com,Oficial/Fato,6141,1245
+Kids With Anxiety Disorders ‘Significantly’ Benefit From Mindfulness Exercises By Changing Brain Activity,http://www.medicaldaily.com,Oficial/Fato,7096,1211
+'Brain training' cut dementia risk in healthy adults -U.S. study,http://www.reuters.com,Desinformação,6032,1804
+Your Fitbit Could Help You Get Pregnant — Here's How,https://www.buzzfeed.com,Desinformação,1892,1453
+Cutting Sugar Rapidly Improves Heart Health Markers,http://well.blogs.nytimes.com,Oficial/Fato,3917,1921
+'Dry needling' for pain therapy is under scrutiny,http://www.usatoday.com,Desinformação,2642,977
+Treating PTSD With Virtual Reality Therapy: A Way to Heal Trauma,http://abcnews.go.com,Oficial/Fato,7128,1852
+Can New Devices Match Heimlich to Stop Choking?,http://www.wsj.com,Oficial/Fato,8255,1733
+Stem cell research aims to put an end to root canals,http://www.cbsnews.com,Oficial/Fato,4095,1854
+Could Statins Help Fight Cancer?,https://consumer.healthday.com,Desinformação,1520,947
+A Cavity-Fighting Liquid Lets Kids Avoid Dentists’ Drills,http://www.nytimes.com,Desinformação,2327,678
+Drug shows promise for quick treatment of postpartum depression,https://www.statnews.com,Desinformação,1823,1182
+Abbott wins U.S. approval for stent that absorbs into body,http://www.reuters.com,Desinformação,4913,1083
+FDA approves first dissolving stent for US patients,http://www.foxnews.com,Desinformação,1596,1753
+Test Aids Prostate Cancer Treatment,http://www.wsj.com,Oficial/Fato,1236,434
+"I’ll never go through shoulder surgery again, so here’s what I did",https://www.washingtonpost.com,Oficial/Fato,5096,1346
+"Stem cell study for ALS patients shows promise, yet causes pain",http://www.cnn.com,Desinformação,7846,489
+Are you a robot?,http://www.bloomberg.com,Oficial/Fato,5297,636
+How to Prevent a Heart Attack: Text Patients on Healthy Habits,http://www.wsj.com,Oficial/Fato,7562,1857
+Stroke: Cleveland Clinic Will Test Deep Brain Stimulation,http://time.com,Oficial/Fato,6843,1815
+Should pregnant women be induced at 39 weeks?,https://www.washingtonpost.com,Desinformação,7856,2084
+Can Google Glass Help Autistic Children Read Faces?,https://web.archive.org,Desinformação,1836,2007
+Can memory loss in Alzheimer's patients be reversed?,http://www.cbsnews.com,Desinformação,8868,2388
+The Promise (and Limits) of Pediatric Proton Radiation,http://health.usnews.com,Desinformação,2341,1793
+Lung Cancer Trial Stopped After Jimmy Carter Drug Shrinks Tumors,http://www.nbcnews.com,Desinformação,1888,1559
+Expert Panel Reaffirms Need for Colon Cancer Screen Beginning at Age 50,https://consumer.healthday.com,Oficial/Fato,5935,182
+Novo diabetes drug cuts heart risks by less-than-hoped 13 percentage,http://www.reuters.com,Oficial/Fato,1498,125
+Prozac and antidepressants are less effective in children than previously thought.,http://www.slate.com,Oficial/Fato,2327,850
+A Scientist's Dream Fulfilled: Harnessing The Immune System To Fight Cancer,http://www.npr.org,Desinformação,6130,731
+"Ovarian cancer blood tests: Available, not widely used",http://www.philly.com,Oficial/Fato,2767,1641
+A ‘Polypill’ May Be the Next Big Preventive Fix,http://www.wsj.com,Desinformação,4067,781
+This isn’t hype: Canadian doctors just reversed severe MS using stem cells,http://www.vox.com,Oficial/Fato,5744,1777
+Breast cancer study may influence use of aromatase inhibitors,https://www.statnews.com,Oficial/Fato,5858,1672
+Blood test could identify people who will respond to antidepressants,http://www.theguardian.com,Desinformação,1716,2047
+Stem Cells May Safely Restore Motor Function In Patients Suffering From Disabilities After Stroke,http://www.medicaldaily.com,Oficial/Fato,7476,1122
+Program Cut Catheter-Associated Urinary Tract Infections,https://consumer.healthday.com,Oficial/Fato,2011,1946
+Dermira's drug for excessive armpit sweating succeeds in key studies,http://www.reuters.com,Desinformação,3180,2247
+New Eczema Treatments Could Be Available Soon,https://web.archive.org,Desinformação,5865,2475
+Statins 'could be valuable addition to breast cancer treatment',http://www.theguardian.com,Desinformação,3578,2095
+Chest Protectors Guard Against Deadly Blows to Chest,https://web.archive.org,Oficial/Fato,3996,1097
+Embryo screening helps couples avoid genetic diseases,http://www.foxnews.com,Desinformação,2593,1065
+A Cure for Digital Addicts’ ‘Text Neck’?,http://www.wsj.com,Desinformação,8615,1991
+Experimental procedure aimed at repairing spinal cord shows promise,http://www.cbsnews.com,Desinformação,4311,1805
+Doctors test new device for uterine fibroids,http://www.philly.com,Desinformação,5471,1652
+Cancer Drug Keytruda Keeps Some Patients Alive For 3 Years,http://www.nbcnews.com,Oficial/Fato,1670,343
+Type 1 diabetes treatment could end need for insulin shots,http://www.theguardian.com,Desinformação,1611,1867
+Oramed says oral insulin succeeds in midstage type 2 diabetes trial,http://www.reuters.com,Desinformação,2831,2310
+"Magic mushroom ingredient may ease severe depression, study suggests",http://www.reuters.com,Desinformação,5630,1000
+Reviving Memory With An Electrical Current,http://www.npr.org,Desinformação,1951,2465
+Same-day hip replacements get patients back on their feet,http://www.cbsnews.com,Oficial/Fato,5241,356
+Does Putting On A Few Pounds Help You Cheat Death?,http://www.npr.org,Desinformação,3066,783
+What Teen Girls Should Eat to Reduce Breast Cancer Risk,http://time.com,Desinformação,6751,1322
+"Facelift in a Bottle? 'Second Skin' Tightens Baggy Eyes, Protects Dry Skin",http://www.nbcnews.com,Desinformação,8365,1864
+"‘Second Skin’ May Reduce Wrinkles, Eyebags, Scientists Say",http://www.nytimes.com,Oficial/Fato,4688,1750
+Could Nasal Spray Curtail Nighttime Bathroom Trips?,https://consumer.healthday.com,Desinformação,1823,2171
+Carbohydrates and Resistant Starch May Help Weight Loss,http://time.com,Desinformação,2616,1783
+"This new device claims to be the ""off switch for menstrual pain."" And it might actually work.",http://www.vox.com,Desinformação,2861,916
+An Online Program May Help Prevent Depression In Some People,http://www.npr.org,Desinformação,7342,1090
+"Wine and coffee lovers, drink up! It’s great for your microbiome",http://www.latimes.com,Oficial/Fato,4425,499
+Is Peru’s Psychedelic Potion a Cure or a Curse?,http://www.wsj.com,Desinformação,5926,2300
+"Gene Therapy Might Be the Best, and Perhaps Only, Chance at Curing Brain Diseases",https://web.archive.org,Oficial/Fato,3213,757
+Could marijuana help treat painkiller and heroin addiction?,http://www.cbsnews.com,Desinformação,4397,897
+"Mediterranean Diet Protects Heart Disease Sufferers From Heart Attack, Stroke",http://www.medicaldaily.com,Desinformação,3670,689
+Teen Feels 'Hopeful' After Experimental Stem Cell Procedure,http://abcnews.go.com,Oficial/Fato,7449,453
+Aggressive 'mini-stroke' therapy may cut serious stroke risk by half,http://www.reuters.com,Desinformação,2670,1670
+"New Stroke Treatment Saves Lives, Improves Recovery",http://www.nbcnews.com,Oficial/Fato,6635,1800
+Tracking the risks and rewards of transcranial magnetic stimulation,https://www.bostonglobe.com,Oficial/Fato,8035,1056
+"More than shots, there's new help for allergy sufferers",http://www.philly.com,Desinformação,6267,388
+"Many women could benefit from earlier mammograms, analysis finds",http://www.cbsnews.com,Oficial/Fato,1352,818
+A Mind-Reading Computer Means This Paralysed Man Can Move His Hands Again,http://www.buzzfeed.com,Desinformação,5964,1105
+Using Vegetable Oils to Lower Cholesterol May Not Improve Longevity,http://www.nbcnews.com,Desinformação,2542,1033
+Love of physical activity may start in the womb,https://www.washingtonpost.com,Oficial/Fato,4736,383
+Should you be taking daily low-dose aspirin for heart health?,http://www.cbsnews.com,Oficial/Fato,7826,1778
+Do healthy people need an aspirin a day?,https://www.statnews.com,Oficial/Fato,2995,1854
+The homeliest nut just got better,http://www.cbsnews.com,Desinformação,8460,2299
+Vericel stem cell heart failure therapy cuts deaths: study,http://www.reuters.com,Oficial/Fato,5995,1454
+Baby Deadline Test: Beat Your Biological Clock,http://www.nbcnews.com,Desinformação,6867,2339
+Acupuncture May Ease Hot Flashes for Breast Cancer Patients,http://consumer.healthday.com,Desinformação,4558,2345
+Concussion Blood Test Shows Promise,http://time.com,Oficial/Fato,4804,1178
+"Mindful meditation may be the answer to relieving chronic back pain, study suggests",https://www.washingtonpost.com,Desinformação,5854,936
+The Benefits of Intensive Cardiac Rehabilitation Over Ordinary Cardiac Rehabilitation,http://health.usnews.com,Desinformação,6459,1476
+Broccoli May Slow or Reverse Some Atherosclerosis,http://www.wsj.com,Desinformação,6417,1452
+"To quit smoking, it’s best to go cold turkey, study finds",http://www.latimes.com,Oficial/Fato,7849,1006
+No-Drill Dentistry: Fluoride Treatments Can Prevent Cavities In Adults,http://www.npr.org,Desinformação,6509,1165
+How a balloon can help you lose weight,http://www.foxnews.com,Desinformação,7342,2008
+First-of-its-kind cataract surgery using stem cells shows promise,http://www.cbsnews.com,Desinformação,5585,869
+Smart air quality device and app helps you breathe easier,http://www.foxnews.com,Desinformação,2059,1071
+Occasional fasting could help you live longer,http://www.cnn.com,Oficial/Fato,4732,1151
+'Female Viagra' gets mixed reviews,http://www.cnn.com,Oficial/Fato,3182,617
+Ibuprofen patch heralds side effect free drug future,http://www.reuters.com,Desinformação,3116,1835
+"A Vaginal Ring Could Prevent HIV, Two Huge Studies Just Found",http://www.buzzfeed.com,Oficial/Fato,5017,1868
+More Support for Osteoporosis Drugs,http://www.wsj.com,Oficial/Fato,7399,916
+"Acupuncture May Help Ease Fibromyalgia Pain, Study Finds",http://consumer.healthday.com,Desinformação,1544,925
+Blood-Boosters May Give Tiny Preemies a Developmental Edge,https://web.archive.org,Oficial/Fato,4197,1358
+When medication doesn't work: Innovative program eases ADHD symptoms naturally,http://www.foxnews.com,Oficial/Fato,7798,366
+Could This Opioid Implant Really End The Opioid Epidemic?,http://www.buzzfeed.com,Oficial/Fato,6291,301
+"Flashing night-lights may help lessen jet lag, circadian problems",http://www.reuters.com,Oficial/Fato,2710,487
+Jet lag research finds new potential treatment,http://www.cnn.com,Oficial/Fato,2673,417
+Same-Day Hip Replacement,http://www.wsj.com,Desinformação,7523,2211
+Using a Mother’s Microbes to Protect Cesarean Babies,http://well.blogs.nytimes.com,Desinformação,7516,1157
+A Diet High In Fiber May Help Protect Against Breast Cancer,http://www.npr.org,Desinformação,6825,939
+Teen eating habits may help cut breast cancer risk,http://www.cbsnews.com,Oficial/Fato,7937,1484
+Cell therapy in protective bubble offers hope for diabetes fix,http://www.statnews.com,Oficial/Fato,8410,433
+Zafgen reports promising results from weight-loss drug study,https://www.bostonglobe.com,Desinformação,1788,2137
+Sleeping in on weekends may help reduce diabetes risk,http://www.reuters.com,Desinformação,2107,2043
+School water coolers may help kids lose weight,http://www.cbsnews.com,Oficial/Fato,4710,1545
+Cancer treatment offers MS patients hope after 'remarkable' trial results,http://www.theguardian.com,Oficial/Fato,6666,384
+Health Buzz: Common Painkiller Fights Cancer,http://health.usnews.com,Desinformação,4634,956
+Panel Reasserts Mammogram Advice That Triggered Breast Cancer Debate,http://www.nytimes.com,Oficial/Fato,792,622
+New breast cancer screening guidelines at odds with Congress,https://www.washingtonpost.com,Desinformação,4242,2104
+Cortisol levels in children's hair may reveal future mental health risk,http://www.theguardian.com,Oficial/Fato,1723,340
+How stem cell therapy may help treat COPD,https://web.archive.org,Oficial/Fato,8042,672
+Report: DASH Diet Best Overall Eating Plan,http://consumer.healthday.com,Oficial/Fato,7681,1617
+Why Tortillas May Hold The Key To Healthier Babies,http://www.npr.org,Desinformação,8153,324
+Newer Blood Pressure Drugs as Good as Older Ones: Study,http://consumer.healthday.com,Desinformação,8013,301
+"New class of blood pressure meds as effective as old, analysis shows",https://www.washingtonpost.com,Desinformação,7965,1970
+12 Minutes of Yoga for Bone Health,http://well.blogs.nytimes.com,Desinformação,3576,908
