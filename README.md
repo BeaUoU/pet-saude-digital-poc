@@ -1,4 +1,4 @@
-# Algoritmos de Recomendação e Credibilidade em Saúde 
+# <img src="assets/pet_h_icon.png" width="45" height="45" /> Algoritmos de Recomendação e Credibilidade em Saúde 
 
 **Autora:** Maria Beatriz Vitorino Almeida 
 
