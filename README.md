@@ -56,17 +56,11 @@ Com o ambiente ativado, instale as bibliotecas necessárias (Streamlit, Pandas, 
 ```bash
 pip install -r requirements.txt
 ```
-### 5. Executar o Pipeline de Dados (ETL)
-Antes de abrir a interface web, é necessário processar os ficheiros JSON originais do FakeHealth para gerar a tabela limpa que alimenta o dashboard. Execute:
 
-```bash
-python data_prep.py
-```
-Este comando irá extrair as notícias e criar automaticamente o ficheiro dataset_poc_limpo.csv dentro da pasta data/processed/.
-
-### 6. Iniciar a Aplicação Web
-Com os dados preparados, inicie o servidor local do Streamlit:
+### 5. Executar a Aplicação Web
+A base de dados já tratada e calibrada (`dataset_poc_limpo.csv`) encontra-se incluída no repositório para permitir a execução imediata. Com o ambiente ativado e as dependências instaladas, basta iniciar o servidor do Streamlit:
 
 ```bash
 streamlit run app.py
 ```
+Nota sobre a primeira execução: Se for a primeira vez a executar o Streamlit na máquina, o terminal pedirá um e-mail (Email:). Não é necessário preencher. Basta pressionar a tecla Enter (deixar em branco) para ignorar o aviso e o painel abrirá automaticamente no seu navegador.
