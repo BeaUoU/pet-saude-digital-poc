@@ -25,6 +25,15 @@ ufc_logo_b64 = load_image_as_base64("assets/ufc.png")
 
 
 st.set_page_config(page_title=TITULO_PROJETO, page_icon="assets/pet_h_icon.png", layout="wide")
+hide_streamlit_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            header {visibility: hidden;}
+            footer {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
+
 st.markdown(f"""
 <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,0" rel="stylesheet" />
 <style>
